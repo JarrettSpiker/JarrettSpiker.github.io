@@ -1,0 +1,131 @@
+- name: boots-of-striding
+  level: 1
+  total: 2
+  available: 2
+  owners: []
+
+- name: cloak-of-invisibility
+  level: 1
+  total: 2
+  available: 2
+  owners: []
+
+- name: eagle-eye-goggles
+  level: 1
+  total: 2
+  available: 2
+  owners: []
+
+- name: heater-shield
+  level: 1
+  total: 2
+  available: 2
+  owners: []
+
+- name: hide-armor
+  level: 1
+  total: 2
+  available: 2
+  owners: []
+
+- name: minor-healing-potion
+  level: 1
+  total: 4
+  available: 4
+  owners: []
+  
+- name: minor-power-potion
+  level: 1
+  total: 4
+  available: 4
+  owners: []
+
+- name: minor-stamina-potion
+  level: 1
+  total: 4
+  available: 4
+  owners: []
+
+- name: piercing-bow
+  level: 1
+  total: 2
+  available: 2
+  owners: []
+
+- name: poison-dagger
+  level: 1
+  total: 2
+  available: 2
+  owners: []
+
+- name: war-hammer
+  level: 1
+  total: 2
+  available: 2
+  owners: []
+
+- name: battle-axe
+  level: 2
+  total: 2
+  available: 2
+  owners: []
+
+- name: boots-of-speed
+  level: 2
+  total: 2
+  available: 2
+  owners: []
+
+- name: cloak-of-pockets
+  level: 2
+  total: 2
+  available: 2
+  owners: []
+
+- name: empowering-talisman
+  level: 2
+  total: 2
+  available: 2
+  owners: []
+
+- name: minor-mana-potion
+  level: 2
+  total: 4
+  available: 4
+  owners: []
+
+- name: stun-powder
+  level: 2
+  total: 2
+  available: 2
+  owners: []
+
+- name: weighted-net
+  level: 2
+  total: 2
+  available: 2
+  owners: []
+
+- name: horned-helm
+  level: quest
+  total: 2
+  available: 2
+  owners: []
+
+- name: skullbane-axe
+  level: quest
+  total: 1
+  available: 1
+  owners: []
+
+- name: blinking-cape
+  level: treasure
+  total: 2
+  available: 2
+  owners: []
+
+- name: circlet-of-elements
+  level: treasure
+  total: 2
+  available: 2
+  owners: []

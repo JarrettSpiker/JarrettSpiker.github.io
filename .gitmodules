@@ -1,0 +1,3 @@
+[submodule "gloomhavenCampaign/cardImages"]
+	path = gloomhavenCampaign/cardImages
+	url = https://github.com/any2cards/gloomhaven
