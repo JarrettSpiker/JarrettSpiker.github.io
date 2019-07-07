@@ -1,8 +1,8 @@
 - name: boots-of-striding
   level: 1
   total: 2
-  available: 2
-  owners: []
+  available: 1
+  owners: [Mammoth]
 
 - name: cloak-of-invisibility
   level: 1
@@ -19,20 +19,20 @@
 - name: heater-shield
   level: 1
   total: 2
-  available: 2
-  owners: []
+  available: 1
+  owners: [Mammoth]
 
 - name: hide-armor
   level: 1
   total: 2
-  available: 2
-  owners: []
+  available: 1
+  owners: [Mammoth]
 
 - name: minor-healing-potion
   level: 1
   total: 4
-  available: 4
-  owners: []
+  available: 3
+  owners: [Mammoth]
   
 - name: minor-power-potion
   level: 1
@@ -64,11 +64,18 @@
   available: 2
   owners: []
 
+- name: iron-helmet
+  level: 1
+  total: 2
+  available: 1
+  owners: [Mammoth]
+
+
 - name: battle-axe
   level: 2
   total: 2
-  available: 2
-  owners: []
+  available: 1
+  owners: [Mammoth]
 
 - name: boots-of-speed
   level: 2
