@@ -1,8 +1,20 @@
 - name: boots-of-striding
   level: 1
   total: 2
-  available: 1
-  owners: [Mammoth]
+  available: 0
+  owners: [Mammoth, Chris Angle]
+
+- name: winged-shoes
+  level: 1
+  total: 2
+  available: 0
+  owners: [Krush, Tweedle Dee]
+
+- name: leather-armour
+  level: 1
+  total: 2
+  available: 0
+  owners: [Krush, Tweedle Dee]
 
 - name: cloak-of-invisibility
   level: 1
@@ -13,8 +25,8 @@
 - name: eagle-eye-goggles
   level: 1
   total: 2
-  available: 2
-  owners: []
+  available: 0
+  owners: [Tweedle Dee, Chris Angle]
 
 - name: heater-shield
   level: 1
@@ -31,32 +43,32 @@
 - name: minor-healing-potion
   level: 1
   total: 4
-  available: 3
-  owners: [Mammoth]
+  available: 1
+  owners: [Mammoth, Krush, Tweedle Dee]
   
 - name: minor-power-potion
   level: 1
   total: 4
-  available: 4
-  owners: []
+  available: 3
+  owners: [Krush]
 
 - name: minor-stamina-potion
   level: 1
   total: 4
-  available: 4
-  owners: []
+  available: 2
+  owners: [Krush, Chris Angle]
 
 - name: piercing-bow
   level: 1
   total: 2
-  available: 2
-  owners: []
+  available: 1
+  owners: [Tweedle Dee]
 
 - name: poison-dagger
   level: 1
   total: 2
-  available: 2
-  owners: []
+  available: 1
+  owners: [Chris Angle]
 
 - name: war-hammer
   level: 1
@@ -116,14 +128,26 @@
 - name: horned-helm
   level: quest
   total: 2
-  available: 2
-  owners: []
+  available: 1
+  owners: [Krush]
 
 - name: skullbane-axe
   level: quest
   total: 1
   available: 1
   owners: []
+
+- name: drakescale-helm
+  level: quest
+  total: 1
+  available: 0
+  owners: [Mammoth]
+
+- name: necklace-of-teeth
+  level: quest
+  total: 1
+  available: 0
+  owners: [Chris Angle]
 
 - name: blinking-cape
   level: treasure
