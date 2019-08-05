@@ -3,6 +3,6 @@
     <img src="/gloomhavenCampaign/cardImages/images/items/{{ include.cardRange }}/{{itemObj.name}}.png" height="300pt" width="200pt" />
     {% if itemObj.available and itemObj.total %}
         <p class="ghItemText">Available: {{itemObj.available}}/{{itemObj.total}}</p>
-        <p class="ghItemText">Owners: {{itemObj.owners | | join: ', '}}</p>
+        <p class="ghItemText">Owners: {{itemObj.owners | | join: ',<br>'}}</p>
     {% endif %}
 </div>
