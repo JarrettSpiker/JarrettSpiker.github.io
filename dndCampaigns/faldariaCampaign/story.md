@@ -4,6 +4,7 @@
 layout: page
 title: "The Story So Far"
 ---
+### [&#8666; Faldaria Campaign](index.html)
 
 ## Session 1
 

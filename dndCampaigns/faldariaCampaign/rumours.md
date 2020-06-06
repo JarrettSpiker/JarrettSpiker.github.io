@@ -4,6 +4,7 @@
 layout: page
 title: "Rumours"
 ---
+### [&#8666; Faldaria Campaign](index.html)
 
 
 ## Ecclesian leaders in Vestran Province

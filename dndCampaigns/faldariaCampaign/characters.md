@@ -4,6 +4,7 @@
 layout: page
 title: "Characters"
 ---
+### [&#8666; Faldaria Campaign](index.html)
 
 ## Player Characters
 - Dimitria Norixius, a dragonborn monk from the Wyvern's Shadow monastery
