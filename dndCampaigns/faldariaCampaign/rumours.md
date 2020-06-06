@@ -6,6 +6,26 @@ title: "Rumours"
 ---
 ### [&#8666; Faldaria Campaign](index.html)
 
+## The Whispering Hand
+
+_Here is what Brood learned when he went looking for information on whether there were any secret mage organizations in Vestran Province_
+
+There is rumoured to be a secret group of Mages and mage sympathizers in the Ecclesia, and particularly in old Avestria. They are called the **Whispering Hand**.
+
+ They act as an underground railroad, hiding spellcasters from the Redeemer’s Inquisition and getting them to safety. Sometimes this means across the border into the Freemarches or Faldaria, or preferably into Five Spire.
+
+It is rumoured that Five Spire supports the Whispering Hand directly
+
+## Banned Substances in the Ecclesia
+
+_Here is what Brood learned when he went looking for information on whether there were any banned substances in the Ecclesia that the populace were upset about_
+
+Despite being very “law and order”, the Ecclesia doesn't ban much in terms of substances. Liquor and most drugs are legal, though public disturbances arising from their use are quickly reprimanded.
+
+However, the Ecclesia is very harsh against arcane magic and practitioners of other religions. This means that materials obviously being used as **spell components** (e.g. bat wings, eye of newt), draw the attention of the Inquisition.
+
+ Additionally, there is a hallucinogen called **night moss** which is used in small doses by many followers of the Radiant Ones to “become closer” with their gods; because of this connection to a different religion, night moss is also banned.
+
 
 ## Ecclesian leaders in Vestran Province
 *Here is what Helena learned when she went looking for a “who’s who” in the Ecclesia (I am focusing this on Vestran Province, as that is where the party is headed to begin with).*
@@ -34,23 +54,3 @@ title: "Rumours"
     - A halfling man originally from Deepgrove
     - Known more as a preacher than an administrator, and generally well liked by the people of Talonstone
     - **Rumour:** Despite being known as a fairly welcoming man, keeps almost entirely to himself on his own time. Takes regular missionary trips into the countryside alone, and is rumoured to have been spotted far afield from where he claimed to be travelling
-
-## The Whispering Hand
-
-_Here is what Brood learned when he went looking for information on whether there were any secret mage organizations in Vestran Province_
-
-There is rumoured to be a secret group of Mages and mage sympathizers in the Ecclesia, and particularly in old Avestria. They are called the **Whispering Hand**.
-
- They act as an underground railroad, hiding spellcasters from the Redeemer’s Inquisition and getting them to safety. Sometimes this means across the border into the Freemarches or Faldaria, or preferably into Five Spire.
-
-It is rumoured that Five Spire supports the Whispering Hand directly
-
-## Banned Substances in the Ecclesia
-
-_Here is what Brood learned when he went looking for information on whether there were any banned substances in the Ecclesia that the populace were upset about_
-
-Despite being very “law and order”, the Ecclesia doesn't ban much in terms of substances. Liquor and most drugs are legal, though public disturbances arising from their use are quickly reprimanded.
-
-However, the Ecclesia is very harsh against arcane magic and practitioners of other religions. This means that materials obviously being used as **spell components** (e.g. bat wings, eye of newt), draw the attention of the Inquisition.
-
- Additionally, there is a hallucinogen called **night moss** which is used in small doses by many followers of the Radiant Ones to “become closer” with their gods; because of this connection to a different religion, night moss is also banned.
