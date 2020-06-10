@@ -23,3 +23,18 @@ While crossing the Pass, a storm threatened the party, who needed to make the ha
 The party scaled the pass and made quick work of most of the Kobolds, but at the sound of a bone chilling roar, they learned that the true danger was still to come. The remaining Kobold soldiers fled at the sight of two giant Yetis appearing at the top of the pass.
 
 With Brood and Dimitria holding off one yeti, and the rest taking on the other, the adventurers vanquished one beast and the other fled.
+
+## Session 2
+
+Some exhausted, some a bit worse for wear, the party makes its way out of the Crystal Pass into the mining town of Talonstone. Gergee, having done some mercenary work in Talonstone a few years ago, leads the group to the Happy Gnome Inn and Tavern.
+
+There, the adventurers met the innkeeper **Boris Burrowfoot**, a gnomish man who is excited to see Gergee the Giant back in town, and informs him that an old acquaintance by the name of **Amaranth** hs been through earlier in the week.
+They meet **Javette Durond**, an Ocredian Human captain of the Silver Legion sent to deal with monsters in the area after being injured on the front lines near the Pits of Emberfell. Despite seeming unimpressed with Roger, Helena, and Gergee, Javette offers them work helping her hunt some of the monsters which have been causing disturbances in the area.
+Finally, they meet **Jorin Ashunter**, a former Knight of Avestria and wartime friend of Oswyn, and not a lieutenant of **The Cranes**, an Avestrian resistance movement inside the Ecclesia.
+
+Jorin reveals to the party that the local sect of the Cranes have been crippled after a run-in with a nearby garrison, where three of their senior members were captured. Jorin worries for the safety of his compatriots, but also about what they may reveal once they are transported from the garrison to the **Hall of Judgement** in Talonstone where the torturers of the Redeemer's Inquisition wait. 
+
+The adventurers commit to help Jorin, and set about preparing to free the Crane prisoners. Brood hunts down the Kobolds who fled from the Crystal Pass, learning that magistrate and commander of the local forces **Barretta Blackstone** stationed them in the Pass, before eliminating them permanently. Brood, Gergee, and Oswyn scout out the garrison, and decide that a roadside ambush will be more effective than attempting to sneak into the garrison's fortifications. Meanwhile Helena, Roger, and Dimitria masquerade as agents of the local Bishop **Ebert Knotwise** to enter the Hall of Judgement, and learn the planned date and route of the prisoner transport. 
+
+Regrouping at the Happy Gnome, the party informs Jorin of the plan, and set about preparing for their ambush...
+

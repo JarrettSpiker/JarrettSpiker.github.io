@@ -35,6 +35,7 @@ However, the Ecclesia is very harsh against arcane magic and practitioners of ot
   -  18 y.o. human. Governs Verstran Province from the city of Briggs Harbour.
   - His father sided, an Avestrian lord, sided with the Ecclesia in the invasion. As a reward he was granted governorship over the Ecclesia, but was killed towards the end of the war. The title passed on to Edwin
   - **Rumour:** Under the thumb of the Archbishop, and afraid of his own command. Given that he was 10 when his father chose to betray Avestria join the Ecclesia, he is seen as either a traitor, or a person who simple “fell into” his position, depending on who you ask
+  - **Rumour:** He will be coming through Talonstone for a parade in a couple weeks time
 
 
  - Archbishop Kellian De’Fris
