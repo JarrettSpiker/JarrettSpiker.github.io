@@ -38,3 +38,18 @@ The adventurers commit to help Jorin, and set about preparing to free the Crane 
 
 Regrouping at the Happy Gnome, the party informs Jorin of the plan, and set about preparing for their ambush...
 
+## Session 3
+
+With Jorin accompanying them, the party sets up camp at the ambush location found by Gergee three days prior. Roger unveils and new song of their exploits in the Crystal Pass while the group plans their ambush.
+
+Blocking escape with felled trees, the party lies in wait. Cavalry Scouts of the Redeemers army are swiftly dealt with by Brood, and the prisoner transport falls easily into their ambush.
+
+A full unit of the Redeemer's Army, infantrymen, spearmen, and archers, led by a brave sergeant escort an ironclad wagon transporting the captured Cranes. To the party's suprise, two members of the Redeemer's Inquisition trail behind: a Warlock of the Redeemer, and his masked bodyguard.
+
+The party springs their trap, and a fierce combat erupts. Brood, Jorin, and Gergee fight a swarm of enemies near the back of the wagon, with both Brood and Jorin nearly paying for the effort with their lives. Advancing through a haze of smoke created by Brood, Oswyn assaults from the flank, while Roger, Helena, and Dimitria rain magic and arrows down upon the Redeemer's Army.
+
+The Inquisition Bodyguard falls to attacks from Brood and Gergee; the sergeant to hellfire, martial arts, and and shattering magic from Helena, Dimitria, and Roger; and the Warlock of the Redeemer is incapacitated with hideous laughter by Roger before being burnt to ash by Helena. Seeing their leaders dead, the remaining soldiers flee in all directions.
+
+With the danger gone, Jorin helps pull his compatriots out of the wagon. A human man, dark haired and attractive, who begins tending to the wounded. A dwarven woman, full of confidence. A tall dragonborn man, with whom he shares an embrace.
+
+And finally, to Jorin's suprise, he pulls a fourth person out of the wagon: a teenage halfling girl with matted hair and tattered clothes. A fourth prisoner, where he only expected three...
