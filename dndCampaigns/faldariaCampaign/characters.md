@@ -25,7 +25,18 @@ title: "Characters"
 ### Avestrians
 
  - Jorin Ashunter. A halfelven man and Avestrian freedom fighter.
-    -  Formerly and Knight Avestria and wartime friend of Oswyn, he is now a lieutenant in The Cranes
+    - Formerly and Knight Avestria and wartime friend of Oswyn, he is now a lieutenant in The Cranes
+    - Leader of the Talonstone cell of the Cranes
+ - Derna Deepview. A dwarven member of the Cranes.
+    -  Acts as the quartermaster and smith/artisan for the Talonstone cell of the Cranes
+ - Sethkan. A dragonborn soldier, and member of the Cranes
+    -  Acts as Jorin's second in command in the Cranes
+    -  Was Jorin's squire during the Avestrian war five years ago
+ - Ferdinand Farspirit. Human Cleric of the Cranes
+    -  A former priest of Dumos (one of the Radiant Ones), God of Protection
+
+ - Alita Willowroot. A young halfling sorcerer, on the run from the Redeemer's Inquisition
+   
  - Boris Burrowfoot. The gnomish innkeeper of the Happy Gnome
 
 ### Other
