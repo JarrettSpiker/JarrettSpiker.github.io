@@ -53,3 +53,23 @@ The Inquisition Bodyguard falls to attacks from Brood and Gergee; the sergeant t
 With the danger gone, Jorin helps pull his compatriots out of the wagon. A human man, dark haired and attractive, who begins tending to the wounded. A dwarven woman, full of confidence. A tall dragonborn man, with whom he shares an embrace.
 
 And finally, to Jorin's suprise, he pulls a fourth person out of the wagon: a teenage halfling girl with matted hair and tattered clothes. A fourth prisoner, where he only expected three...
+
+## Session 4
+
+Surveying the results of the ambush, the party meets the prisoners they have rescued. **Sethkan**, Jorin's right-hand-man in the Talonstone Cranes; **Derna Deepview**, the Crane's quartermaster; **Ferdinand Farspirit**  a former cleric of the Radiant Ones; and the terrified halfling girl **Alita**. Character details and images can be found in [the characters page](characters.html) Winning over the trust of Alita, Roger and Helena learn that she is a young sorcerer who has been in hiding from the Redeemer's Inquisition.
+
+Jorin brings the party back to the Crane's hideout, a hollowed out cellar beneath the Happy Gnome, where the other members of the Cranes are overjoyed to see the return of their captured compatriots. Helena, with Alita as a faithful assistant, teaches the assembled Cranes some slight-of-hand magic, and encourages them to spread the tricks around the people of Talonstone
+
+Thankful for the party's help, Jorin and Sethkan promise their support to the party. While Jorin encourages the party to try and win the support of the people, and win allies among the other enemies of the Ecclesia (like Five Spire, Tor Vethren, and the Free Marches), Sethkan encourages them to sew dissent in the Ecclesia ranks by targettting their leaders. The local commander/magistrate Barretta Blackstone is known for only acting in her own self interest, the local bishop Ebert Knotwise is charismatic, but something of a recluse, and the governor of all of Vestran province, Edwin Briggs, will be parading through town in just over a week's time.
+
+Ferdinand also encourages the party to help get Alita safely out of Talonstone, where an accidental use of her magic could bring the Inquisition down on their heads.
+
+The party forms some tentative plans:
+* Try to win the support of Barretta, if possible
+* Eliminate Ebert Knotwise and attempt to replace him with a stand in
+* Get Alita into the care of the Whispering Hand, a underground railroad for mages rumoured to be run by Five Spire
+
+Jorin sets up a meeting with his Whispering Hand contact, who Dimitria agrees to meet the following evening. Helena, Roger, and Brood head to the Last Dance, the known Haunt of Barretta Blackstone and her private military organisation: the Blackstone Mercenaries.
+
+At the Last Dance, Helena ingratiates herself to Barretta, turning up her characteristic charm as alias "Sussana von Sweet". She learns that Barretta is a proud, self-made-woman, who once trained as an elite warrior in the Mountain Dwarf stronghold of Tor Vethren, one of only a handful of Hill Dwarves ever to do so, before she was kicked out. Roger learns that the mercenaries are loyal to Barretta, who pays them well out of her personal wealth, but they are always recruiting skilled fighrers. He learns that the "try out" for admission to the mercenaries is a duel with Barretta herself: a combat that no challenger has ever won.
+Seeing an opportunity, Brood petitions to join the Blackstone Mercenaries, and (perhaps in an effort to impress Helena) Barretta offers to test Brood right then and there, with a duel out front of the Last Dance...
