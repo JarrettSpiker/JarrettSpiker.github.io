@@ -60,7 +60,7 @@ Surveying the results of the ambush, the party meets the prisoners they have res
 
 Jorin brings the party back to the Crane's hideout, a hollowed out cellar beneath the Happy Gnome, where the other members of the Cranes are overjoyed to see the return of their captured compatriots. Helena, with Alita as a faithful assistant, teaches the assembled Cranes some slight-of-hand magic, and encourages them to spread the tricks around the people of Talonstone
 
-Thankful for the party's help, Jorin and Sethkan promise their support to the party. While Jorin encourages the party to try and win the support of the people, and win allies among the other enemies of the Ecclesia (like Five Spire, Tor Vethren, and the Free Marches), Sethkan encourages them to sew dissent in the Ecclesia ranks by targetting their leaders. The local commander/magistrate Barretta Blackstone is known for only acting in her own self interest, the local bishop Ebert Knotwise is charismatic, but something of a recluse, and the governor of all of Vestran province, Edwin Briggs, will be parading through town in just over a week's time.
+Thankful for the party's help, Jorin and Sethkan promise their support to the party. While Jorin encourages the party to try and win the support of the people, and win allies among the other enemies of the Ecclesia (like Five Spire, Tor Vethren, and the Free Marches), Sethkan encourages them to sew dissent in the Ecclesia ranks by targeting their leaders. The local commander/magistrate Barretta Blackstone is known for only acting in her own self interest, the local bishop Ebert Knotwise is charismatic, but something of a recluse, and the governor of all of Vestran province, Edwin Briggs, will be parading through town in just over a week's time.
 
 Ferdinand also encourages the party to help get Alita safely out of Talonstone, where an accidental use of her magic could bring the Inquisition down on their heads.
 
@@ -71,7 +71,7 @@ The party forms some tentative plans:
 
 Jorin sets up a meeting with his Whispering Hand contact, who Dimitria agrees to meet the following evening. Helena, Roger, and Brood head to the Last Dance, the known Haunt of Barretta Blackstone and her private military organisation: the Blackstone Mercenaries.
 
-At the Last Dance, Helena ingratiates herself to Barretta, turning up her characteristic charm as alias "Susanna von Sweet". She learns that Barretta is a proud, self-made-woman, who once trained as an elite warrior in the Mountain Dwarf stronghold of Tor Vethren, one of only a handful of Hill Dwarves ever to do so, before she was kicked out. Roger learns that the mercenaries are loyal to Barretta, who pays them well out of her personal wealth, but they are always recruiting skilled fighrers. He learns that the "try out" for admission to the mercenaries is a duel with Barretta herself: a combat that no challenger has ever won.
+At the Last Dance, Helena ingratiates herself to Barretta, turning up her characteristic charm as alias "Susanna von Sweet". She learns that Barretta is a proud, self-made-woman, who once trained as an elite warrior in the Mountain Dwarf stronghold of Tor Vethren, one of only a handful of Hill Dwarves ever to do so, before she was kicked out. Roger learns that the mercenaries are loyal to Barretta, who pays them well out of her personal wealth, but they are always recruiting skilled fighters. He learns that the "try out" for admission to the mercenaries is a duel with Barretta herself: a combat that no challenger has ever won.
 Seeing an opportunity, Brood petitions to join the Blackstone Mercenaries, and (perhaps in an effort to impress Helena) Barretta offers to test Brood right then and there, with a duel out front of the Last Dance...
 
 ## Session 5
@@ -86,6 +86,45 @@ Once at the manor, Helena makes a bold play: She reveals her true name and magic
 Across the city, back at the Happy Gnome, Jorin tells Dimitria it is time to meet their contacts in the Whispering Hand. Alita in tow, they sneak across the city, coming to a knickknacks store run by an aging wheelchair-bound White Islander called **Bilry**.
 Bilry waits for them in his store along with two younger White Islands men: the wiry, diminutive **Gull**, and the hulking **Petrel**. Bilry tells Dimitria that the Whispering Hand can get Alita far away from the city by bringing her to a smuggler's cover downriver run by a man called **Ulric**. However, through a contact in the local government, he has learned that wanted posters for Alita will soon be put up across the city. Afraid to send Alita alone with only Gull and Petrel for protection, Bilry asks Dimitria to escort them as far as Ulric's cove. Dimitria agrees. Delayed only by Gull's need to tie up some loose ends in the city, the group agrees to head out immediately.
 
-While she waits, Dimitria asks Bilry about some of the talismans he sells in the shop. He tells her that they are White Islands creations, made to appease the gods of the sea and skies. One in particular, he reveals, was given to him by an old friend, a storm sorcerer, which he believes to have real power. Since she has agreed to help Alita, Bilry offers to sell it to Dimitira on her return.
+While she waits, Dimitria asks Bilry about some of the talismans he sells in the shop. He tells her that they are White Islands creations, made to appease the gods of the sea and skies. One in particular, he reveals, was given to him by an old friend, a storm sorcerer, which he believes to have real power. Since she has agreed to help Alita, Bilry offers to sell it to Dimitria on her return.
 
-Gergee is simply trying to enjoy an evening at the Happy Gnome when Jorin returns to tell him that Dimitiria is headed out of the city with Alita that very night. Gergee and Jorin make their way to the Last Dance, where they find Brood and Roger passed out out-front. With some minor first aid applied to Brood, they manage to get their two drunken companions back to the Happy Gnome. Seeing that they wouldnt be much help right away, Gergee fetches Oswyn from his rooms, and together they meet Dimitria, Gull, Petrel, and Alita on their way out of the city
+Gergee is simply trying to enjoy an evening at the Happy Gnome when Jorin returns to tell him that Dimitiria is headed out of the city with Alita that very night. Gergee and Jorin make their way to the Last Dance, where they find Brood and Roger passed out out-front. With some minor first aid applied to Brood, they manage to get their two drunken companions back to the Happy Gnome. Seeing that they wouldn't be much help right away, Gergee fetches Oswyn from his rooms, and together they meet Dimitria, Gull, Petrel, and Alita on their way out of the city
+
+## Session 6
+
+In the master bedroom of the magistrate's mansion, Barretta gives Helena some mixed news. She does not feel any loyalty to the Ecclesia, and would be more than happy to pull her mines and mercenaries free of their taxes. However, she does not believe that Faldaria has any chance of winning the war to come, and isn't willing to openly defy the Ecclesia (even by refusing to fight) for the sake of a doomed country. If Helena wants Barretta on her side, or even to remain indifferent, she will need to find a way to convince the magistrate that it will be worth the risk...
+
+Returning to the Happy Gnome, to find Roger and Brood drunk, and Oswyn gone, Helena falls into tears in the bed of the Faldarian Paladin. Soon after, once Brood and Roger have sobered up a bit, Jorin them together with Helena and lets them know where Gergee and Dimitria are headed.
+
+Dimitria, Gergee, Oswyn, Gull, Petrel, and Alita travel south along the road, headed for Ulric's Cove. On their journey, Dimitria thinks she sees a dark shape trailing them through the trees, but the party encounters no danger until the stumble upon an aggregated Girallon. They are ambushed by an aggravated Girallon. Brood, Helena, and Roger rejoin the party just in time to see the Girallon defeated.
+
+Petrel leads the group to Ulric's Cove, a sheltered section of the river where a dock has been built into the cliffs which make up the bank. A caged Girallon is kept at the base of the cliffs, and a boat has been hoisted up out of the water and is being modified to carry the beast. They are greeted by a man called Ulric, who asks half the group to hide in the Cove's warehouse while he speaks with some in his office.
+
+The group in the warehouse finds a hidden body, and soon learns that they are not free to leave. Meanwhile, in the office, the man who runs the Cove asks for all the groups money in exchange for Alita's safe passage. Alarmed, they deduce that this man is not Ulric, nor is he a member of the Whispering Hand...
+
+## Session 7
+
+A side quest, which takes us back in time and across the continent, to the edge of the World Scar south of the Rotwood. A squad of Silver Legion has just returned from a long ranging mission new recruits Cameron and Ferris; Clerics Arameia and Garrus; the warrior Shayla; and their esteemed leader Javette Durond. Rather than getting to a well deserved rest, the squadron is called to investigate a strange occurrence. The bell inside a long abandoned church of Cherebor, the Radiant One of the Afterlife has tolled 12 times at dawn, dusk, and midnight for tha last several nights. Every party who has gone to investigate, Silver Legion and Redeemer Priests, have disappeared.
+
+The tale of this adventure will be, of course, be told in epic spoken word tales for years to come, and does not need repeating. Suffice it to say, Javette lost most of her hand to an Otyugh, but despite some close calls the entire party (amazingly) survived the harrowing experience.
+
+Not long after, her shield hand maimed, Javette is posted away from the dangers of the World Scar, as a Silver Legion monster hunter in the safe little city of Talonstone...
+
+## Session 8
+
+
+In Ulric's Cove, the separated party quickly exchange a Message before fighting breaks out. The group in the warehouse, cornered, protect Alita while fighting their way through a swarm of smugglers. In Ulric's office, the most dangerous foes proves to be a very slippery table, which only the Monk training of Dimitria can best (as well as the imposter, and leader of the smugglers here, soon after).
+
+Meeting back at the docks, Petrel tells the group he can take Alita the rest of the way, if they can get down river. The party rests as Gull offers to figure out the mechanism which can get the Cove's hoisted boat back in the water.
+
+Roger regales the party with a tale he heard of their Talonstone acquaintance Javette, before setting about trying to figure out the Cove's crane and boat on his own. He makes some progress moving the crane, before the mechanism audibly breaks, and Gull calls him into the gearhouse below. There, he sees that the gears which power the crane have been sabotaged...and feels Gulls knife in his back.
+
+Gull confesses his betrayal, preferring the money of the Ecclesia over the ideology of Bilry and the Whispering Hand. Clutching a bronze medallion around his neck, he calls out, and war horns blare from the forest above.
+
+The party springs into battle as Church of the Redeemer soldiers begin to pour into the Cove. Dimitria and Gergee rush into the gearhouse, and together with Roger they knock Gull unconscious. Brood rushes to the gate of the Cove, and manages to bar the way of several soldiers while Oswyn rushes to help him. Helena transforms into a sea monster, and scoops Alita to safety in the river.
+
+The Redeemer's soldiers break through the gate, and Brood scrambles to use the crane to put the boat into the river. In an impressive feat of strength, Roger shoves the broken gear back into place, and Brood is able to swing the boat out over the river...but not lower it.
+
+As Gergee and Dimitria fight the soldiers climbing down over the cliff's edge, Oswyn holds the stairs to the docks. Dimitria leaps up onto the boat, and Brood climbs up the crane, both trying to cut the boat free. Roger breaks the Girallon's cage, and Helena convinces it that the Church of the Redeemer's soldiers are its enemies.
+
+With a Girallon loose on the docks, and more Church soldiers pilling in, the party fights to escape...
