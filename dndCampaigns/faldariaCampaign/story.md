@@ -112,7 +112,6 @@ Not long after, her shield hand maimed, Javette is posted away from the dangers 
 
 ## Session 8
 
-
 In Ulric's Cove, the separated party quickly exchange a Message before fighting breaks out. The group in the warehouse, cornered, protect Alita while fighting their way through a swarm of smugglers. In Ulric's office, the most dangerous foes proves to be a very slippery table, which only the Monk training of Dimitria can best (as well as the imposter, and leader of the smugglers here, soon after).
 
 Meeting back at the docks, Petrel tells the group he can take Alita the rest of the way, if they can get down river. The party rests as Gull offers to figure out the mechanism which can get the Cove's hoisted boat back in the water.
@@ -128,3 +127,15 @@ The Redeemer's soldiers break through the gate, and Brood scrambles to use the c
 As Gergee and Dimitria fight the soldiers climbing down over the cliff's edge, Oswyn holds the stairs to the docks. Dimitria leaps up onto the boat, and Brood climbs up the crane, both trying to cut the boat free. Roger breaks the Girallon's cage, and Helena convinces it that the Church of the Redeemer's soldiers are its enemies.
 
 With a Girallon loose on the docks, and more Church soldiers pilling in, the party fights to escape...
+
+## Session 9
+
+With Church of the Redeemer soldiers pouring into Ulric's Cove, the party scrambles into the boat. Covering their escape, the party sees a dark eyed elven woman in a green cloak hidden amongst the trees firing arrows down into the Ecclesia's ranks.
+
+The party slips downstream, out of the Church's grasp, and set up camp as night begins to fall, and members of the party share some quiet moments together.
+
+In the morning, with Petrel's consent, the party (minus Oswyn and Alita) interrogate Gull. They learn that the Inquisition paid him 500gp to betray the Whispering Hand, which he planned to use to flee to the Free Marches. He has told the Inquisition where Bilry lives, given them a description of Dimitria (the only member of the party he saw before leaving Talonstone), and agreed to lead a group of Redeemer's Soldiers to Ulric's Cove. He shows the group the magical bronze medallion he was given in order to summon the soldiers to the Cove, which the party takes from him.
+
+Despite keeping his end of the deal, after much debate the party decides to kill Gull. Petrel gives his old shipmate a facsimile of a White Islander funeral in the river, and shortly thereafter it is time to move on.
+
+The party decides to return to Talonstone, while Petrel takes Alita the rest of the way to safety. It is a tearful goodbye as Roger gives Alita his silver pan flute, and the party promises to see Alita again one day when she has become a great sorceress of Five Spire.
