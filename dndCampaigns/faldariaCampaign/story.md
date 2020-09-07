@@ -150,8 +150,13 @@ The group makes a stop at the Rune Forged Dagger to check for any messages from 
 
 Novu's letter:
 *Brood,*
+
 *We have your first job for you. Time to prove you are Blackstone material. Job details follow. Rules are you have 48 hours to let us know if you want the job or not, but  don't expect more chances any time soon if you flake on your first opportunity.*
+
 *The sewers around the port district have been backing up all over the place. Barretta sent down some civilians to look into it yesterday, and we haven't heard from them since. Not a military matter, so we are paying the Mercenaries to deal with this out of the city's budget. New recruits get the shit jobs, ha.*
+
 *You can access the sewers from behind the portmaster's quarters near the river. Figure out what's going on and deal with it. 50gp reward, report back when its done.*
+
 *You can reach me at the Last Dance. If you want to split the reward, we can provide you with backup...or you can risk your neck going in alone. Barrett seems to think you're promising. Dont fuck it up.*
+
 *Novu*
