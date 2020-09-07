@@ -139,3 +139,19 @@ In the morning, with Petrel's consent, the party (minus Oswyn and Alita) interro
 Despite keeping his end of the deal, after much debate the party decides to kill Gull. Petrel gives his old shipmate a facsimile of a White Islander funeral in the river, and shortly thereafter it is time to move on.
 
 The party decides to return to Talonstone, while Petrel takes Alita the rest of the way to safety. It is a tearful goodbye as Roger gives Alita his silver pan flute, and the party promises to see Alita again one day when she has become a great sorceress of Five Spire.
+
+## Session 10
+
+Returning to Talon Stone, the party immediately head to Bilry's shop. They find the building burnt to the ground, with no sign of Bilry, alive or otherwise. Interviewing the shopkeeper across the way, who sells them some very dashing feathered cowboy hats, they learn that no one has seen Bilry since the blaze, and that (unusually) members of the Inquisition were seen shepherding people away from the building as it burned.
+
+Gergee and Dimitria returned to the Crane's hideout beneath the Happy Gnome to tell Jorin what has happened. Meanwhile, the rest of the party head to the abandoned tavern where Gull hid the first half of his 200gp reward. They find the gold, as well as something else interesting: a Clerk of the Church, whom they had previously met at the Hall of Judgement, buying Nightmoss from a drug dealer. Helena confronts the man, who tells her that he is there to buy the drug for Ebert Knotwise, the Redeemer Bishop in charge of Talonstone. Helena tells the clerk to complete his task, and keep quite about being caught for fear that he will meet the same fate coming to the Bishop.
+
+The group makes a stop at the Rune Forged Dagger to check for any messages from Barretta, and a letter with orders from Novu awaits Brood. They reach varying levels of intoxication, before returning to the Happy Gnome for the night.
+
+Novu's letter:
+*Brood,*
+*We have your first job for you. Time to prove you are Blackstone material. Job details follow. Rules are you have 48 hours to let us know if you want the job or not, but  don't expect more chances any time soon if you flake on your first opportunity.*
+*The sewers around the port district have been backing up all over the place. Barretta sent down some civilians to look into it yesterday, and we haven't heard from them since. Not a military matter, so we are paying the Mercenaries to deal with this out of the city's budget. New recruits get the shit jobs, ha.*
+*You can access the sewers from behind the portmaster's quarters near the river. Figure out what's going on and deal with it. 50gp reward, report back when its done.*
+*You can reach me at the Last Dance. If you want to split the reward, we can provide you with backup...or you can risk your neck going in alone. Barrett seems to think you're promising. Dont fuck it up.*
+*Novu*
