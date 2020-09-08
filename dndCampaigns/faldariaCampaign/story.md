@@ -160,3 +160,17 @@ Novu's letter:
 *You can reach me at the Last Dance. If you want to split the reward, we can provide you with backup...or you can risk your neck going in alone. Barrett seems to think you're promising. Dont fuck it up.*
 
 *Novu*
+
+## Session 11
+
+With Helena, Gergee, and Ferdinand spending the morning tracking Bishop Ebert Knotwise, the rest of the party takes on Brood's first missions as a member of the Blackstone Mercenaries. Heading to the port district, they descend into the sewers of Talonstone.
+
+Emerging into a large basin of murky brown-grey wastewater, the party finds slightly iridescent violet fungus growing over the walls, conglomerating into nodules blocking off several pipes. They also find three giant rats feasting on what can only be the corpses of the civilians sent down by Barretta the previous day.
+
+The group sets to work clearing away the fungus, and clearing out the rats (both of which put up a fight). Distracted, Roger does not notice as a sewer crocodile emerges and pulls him into the water. As Brood begins fully hurling giant rats at the swarming crocodiles, Dimitria leaps onto Rogers assailant, and raining down blows.
+
+Swimming through sewage from crocodile to crocodile, Dimitria clears the way for Roger. The young bard makes it back to the basin landing just as a savage bite from a crocodile (currently being straddled by Dimitria the Crocborn, as Oswyn puts it) and drops him to 0hp for the first time in his poor young bardic life.
+
+Oswyn revives his brother, as Dimitria and Brood finish of the last of their enemies. Tired, injured, and covered in sewage (other than Oswyn, who is still squeaky clean), the party clears the rest of the fungus and makes their way back up to the streets, eager for a bath at the Happy Gnome.
+
+For a brief moment, the only person left in the sewers is Brood, checking the bodies for loot. As the group's torches fade away his dark vision kicks in. Across the basin, in a doorway from which he has heard skittering noises throughout the fight, he sees a shape silhouetted. A six foot tall humanoid, standing upright, with a wormlike tail, and the gleaming, beady eyes and teeth of a rat. As he watches, he sees the figure look at him, swish its tail, and turn and walk away, deeper into the sewers...
