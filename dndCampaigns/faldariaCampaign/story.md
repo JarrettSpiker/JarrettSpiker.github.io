@@ -174,3 +174,23 @@ Swimming through sewage from crocodile to crocodile, Dimitria clears the way for
 Oswyn revives his brother, as Dimitria and Brood finish of the last of their enemies. Tired, injured, and covered in sewage (other than Oswyn, who is still squeaky clean), the party clears the rest of the fungus and makes their way back up to the streets, eager for a bath at the Happy Gnome.
 
 For a brief moment, the only person left in the sewers is Brood, checking the bodies for loot. As the group's torches fade away his dark vision kicks in. Across the basin, in a doorway from which he has heard skittering noises throughout the fight, he sees a shape silhouetted. A six foot tall humanoid, standing upright, with a wormlike tail, and the gleaming, beady eyes and teeth of a rat. As he watches, he sees the figure look at him, swish its tail, and turn and walk away, deeper into the sewers...
+
+## Session 12
+
+The party reassembles in the Cranes hideout...and are immediately expelled upstairs to bathe. Fast forward one hour of bathing for three of the party members, and a strategy meeting in Jorin's office, the group settles on a plan. Attend Bishop Ebert Knotwise's sermon, tail him out of the city, coerce whatever information they can out of him...and then decide if he his more useful as a blackmail victim or a corpse.
+
+The Bishop's sermon is full of messages of love for the Redeemer, as is the conversation he provides the group when they catch up with him outside of the city. He tells them how the Prophet of the Redeemer herself healed his lamed legs during a visit to Deep Grove decades ago, and how he has devoted his life to the Redeemer ever since.
+
+Near dusk, the Bishop bids adieu of the party and head off of the main road into the woods. The party tracks him along what seems to be an old game trail, until they spot him approaching a massive wall of brambles. Ebert moves a loose section of bramble aside with his knotted staff and slips inside.
+
+Rather than following, Dimitria climbs a nearby tree to peer inside the veil of brambles. Inside she sees a wide clearing full of strange and wonderful plants, fully encased in the brambles. Giant mushrooms serve as tables, with smaller toadstools serving as seating around them. Berries, fruits, and nuts cover a bar made of a still-living log. A bubbling clear spring rises up in one corner, and near the back ladders lead into raised platforms amongst the trees. Among this, gnomes and elves in druidic garbs bustle about. Seated at one mushroom table is the bishop, alongside several druids as well as a pair of wearing sigils of the Radiant Ones.
+
+Dimitria carries Roger into the treetops, and as Roger magically disguises himself as an elderly man he is tossed down into the clearing.
+
+The druids and the Bishop quickly help Roger to his feet, and offer him a seat at their table. Roger deceives the group, assuming the name Fredrick Khan, a man who has been persecuted by the Ecclesia and seeking sanctuary. Ebert tells Fredrick that he will be safe in this place, and reveals to him that while he devoutly believes in the Church, and that Arcane magic must be eliminated, he is opposed to the ferocity with which the Inquisition perseus this task.
+
+The conversation at the table falls into a friendly religious debate, and before long the Bishop offers Nightmoss he has smuggled out of the city to the Radiant One priests. As they slip into religious trances, Roger is offered the Nightmoss pipe, which he accepts.
+
+As the Nightmoss takes hold on Roger's mind he is pulled into a deeper, much older forest. The trees rise almost out of sight, and the space is lit by a dim morning glow. From between the trees Roger sees a massive shifting shape approach...first a stag and then a hawk and then a bear....and then standing before him, a woman like nothing he has ever seen. She stands twenty feet tall, garbed in leaves and moonlight. Hawks wings sprout from her back, a wolf's claws tip her fingers, and she looks down smiling at Roger with six human eyes. The woman speaks to Roger as if she knows him, she speaks of his family and his King, and of the quest he is on. When Roger asks her name, she trades the knowledge for a song: Felurian.
+
+As the Nightmoss begins to fade, Felurian tells Roger she hopes she will see him again, in this life or the next...and Roger finds himself, mind hazy, back in the druid's grove
