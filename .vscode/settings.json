@@ -17,6 +17,7 @@
         "Dimitria",
         "Dumos",
         "Durond",
+        "Echran",
         "Emberfell",
         "Erys",
         "Faldaria",
@@ -39,12 +40,15 @@
         "Ocredian",
         "Oswyn",
         "Otyugh",
+        "Rhalagai",
         "Rotwood",
         "Sethkan",
         "Shayla",
         "Sybald",
         "Talonstone",
         "Tiefling",
+        "Vesmir",
+        "Vesmir's",
         "Vestran",
         "Vethren",
         "Willowroot",
@@ -55,6 +59,7 @@
         "dimitiria",
         "dragonborn",
         "dwarven",
+        "elven",
         "halfelven",
         "halfling",
         "knotwise",
@@ -63,6 +68,7 @@
         "organisation",
         "suprise",
         "ulric",
-        "ulric's"
+        "ulric's",
+        "werebat"
     ]
 }

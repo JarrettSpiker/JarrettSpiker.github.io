@@ -44,9 +44,30 @@ title: "Characters"
    
  - **Boris Burrowfoot**. The gnomish innkeeper of the Happy Gnome
 
+
 ### Other
  - **Javette Durond**. An Ocredian human woman, and captain of the Silver Legion
     - She has been sent to Talonstone to investigate reports of monsters in the area, after being injured on the Legion's "front line" near the Pits of Emberfell.
+    - {% include hoverImage.html text="Image" image="characterImages/Javette.jpg" %}
+ - **Bilry**. A White Islander human man, and agent of the Whispering Hand
+    - Formerly the captain of a White Isles ship, after becoming wheelchair bound he opened a shop in Talonstone as a front for a Whispering Hand 
+
+
+## Unaligned NPCs and Organizations
+The continent contains several organizations which have not (yet) sided with either Faldaria or the Ecclesia in the coming conflict. They have their own interests, and may be convinced to aid Faldaria...or stand in the party's way
+
+### Dark Circle
+The Dark Circle is a mysterious druidic organization formed of Avestrian druids and rangers. After a schism with the Circle which runs the Sanctuary over whether direct, violent, action should be taken against the Ecclesia, the Dark Circle was formed.
+The party witnessed that start of a Dark Circle ritual which is used to somehow transform Priests of the Redeemer into beastly constructs of earth and plants.
+ - **Brade** An elven ranger of the Dark Circle. Has an owl companion called Clarity
+   - {% include hoverImage.html text="Image" image="characterImages/brade.jpg" %}
+
+### The Brethren of Rhalagai
+Not much is known of the Brethren at this time, other than that they appear to be working with the Dark Circle
+ - **Vesmir** A male shifter of the Brethren, with greased hair and dark beady eyes. His voice resonates with itself, both low and whispery, and high and screechy
+    - Known to be a bat lycanthrope (a werebat)
+    - {% include hoverImage.html text="Image" image="characterImages/vesmir.jpg" %}
+
 
 ## Enemy NPCs
 
@@ -58,6 +79,7 @@ A lot of this information is from the rumours Helena learned before leaving Fald
     - Dwarven woman. Originally of common blood, she made her riches as an independent miner and mercenary. After the war, she effectively bought herself a title within the Ecclesia so that she could live an easier life.
     - Known as a competent, if dispassionate leader, mostly interested in keeping things running smoothly and maintaining the status quo.
     - Brood has learned that she was the one to position the Kobolds in the Pass, and Javette has told the party that she refuses to send any soldiers to aid her in monster hunting in the mountains.
+    - Roger and Helena learned that she was once inducted into the Shield Warriors of Tor Vethren, something exceedingly rare for a hill dwarf, but has since been cast out.
     - **Rumour:** A passionate drinker and gambler, known to stake huge bets when she gets on a roll. Prefers simple pleasures over “highborn fancies”, and not ashamed to show it.
 
  - Bishop **Ebert Knotwise**

@@ -194,3 +194,39 @@ The conversation at the table falls into a friendly religious debate, and before
 As the Nightmoss takes hold on Roger's mind he is pulled into a deeper, much older forest. The trees rise almost out of sight, and the space is lit by a dim morning glow. From between the trees Roger sees a massive shifting shape approach...first a stag and then a hawk and then a bear....and then standing before him, a woman like nothing he has ever seen. She stands twenty feet tall, garbed in leaves and moonlight. Hawks wings sprout from her back, a wolf's claws tip her fingers, and she looks down smiling at Roger with six human eyes. The woman speaks to Roger as if she knows him, she speaks of his family and his King, and of the quest he is on. When Roger asks her name, she trades the knowledge for a song: Felurian.
 
 As the Nightmoss begins to fade, Felurian tells Roger she hopes she will see him again, in this life or the next...and Roger finds himself, mind hazy, back in the druid's grove
+
+## Session 13
+
+Taking his leave of the Sanctuary, a disguised Roger reconvenes with the party as night falls on the forest. Unsettled by his vision, Roger pulls his brother aside to discuss it. A shocked Oswyn reveals to Roger that Felurian us an old Faldarian name for the Queen of the Fae Courts, and old ally of Faldaria before the Wrending. The Kings Guard honour Felurian by choosing their totem beast after one of her forms (Stag, Hawk, Bear, etc)
+
+The party decides to enter the Sanctuary undisguised to rest there for the night, as Gergee senses the presence of another predator in the forest.
+
+Through some skilled deception, they are welcomed by the Bishop and the Circle of druids who run the sanctuary, but their rest there is short. It is not long before they can hear the cries of the Bishop, who has left firefly hunting, echoing through the forest outside.
+
+The party pursues the Bishop, and soon finds his two companions, Pixie and Trixie, asleep under the affect of a magical spell. A voice from the trees warns them to turn back, and while threats are exchanged Dimitria manages to sneak through the treetops and engage the elven ranger she encounters there.
+
+The party sees the Bishop being dragged away by shambling humanoid creatures made entirely of vines, and become spread out across the forest trying to catch up as more plant creatures emerge from the woods to cut off their pursuit.
+
+With arrows raining down from above, the party kills most of the plant monsters, and causes the elven rangers to flee, just in time to see the Bishop dragged in to a dark circle of trees.
+
+## Session 14
+
+Oswyn rushes ahead as the party scrambles to enter the circle of trees after the bishop, clearing the rest of the plant monsters standing in their way.
+
+As they enter the circle of trees, they find a raised stone alter standing in the center, the Bishop held down against it by vine blights. To either side of the Bishop stand gnomish druids in dark robes. As the party watch another figure, a tall gaunt man with beady dark eyes and greased back hair, hands the druids a serrated dagger made out of the fang of some large beast, and then retreats as the druids begin to chant a ritual, holding the dagger aloft above Ebert's heart.
+
+In front of the alter, Oswyn lays pinned to the ground by another pair of monsters molded of earth and vines. These beasts, however, are not slow and shambling. They resemble massive ten-foot-tall wolves, and eye their prey with all the bloodthirst of a true predator. 
+
+A desperate battle to pull Oswyn out of danger and stop the ritual commences. Roger casts a cload of noxious gas, robbing the enemy of most of their ability to act, as Gergee and Brood rush to engage then wolves. Helena runs to Oswyn's aid, and together they pull free of the beasts' grasp.
+
+Hidden amongst the treetops, Dimitria sees her party struggling against the wolves, and decides to take a more direct route to stopping the sacrificial ritual. She knocks an arrow, and fires on then Bishop. Roger follows suit, and with a powerful Shatter, he and Dimitria put a permanent end to Bishop Ebert Knotwise.
+
+Helena messages the mysterious man, who introduces himself as **Vesmir** of the **Brethren of Rhalagai**, and motions for the enraged druids to call off their wolves.
+
+After some tense back and forth questioning, and the re-emergence of the lead ranger from the forest (called **Brade** by his companions), the party learns that the druids and rangers belong to a recently formed druidic order called the **Dark Circle**. They have dedicated themselves to striking out at the Church of the Redeemer now, before her Inquisition can decide to persecute druidic magic as well. With the help of the Brethren, they have been sacrificing members of the Church to turn them into the Dark Circle Wolves the party has been fighting.
+
+Vesmir engages Brood in conversation, who (after a long time) recognizes that Vesmir is also a Shifter, though not one of a tribe Brood has ever encountered before. Vesmir acknowledges that perhaps the interests of party aligns with his own, but demands an offering in exchange for the life of the Bishop before they can consider working together. Vesmir tells the party that if they bring a Priest of the Redeemer to an abandoned temple of Echran (the Radiant One of framers and the Harvest) 20km south of Talonstone, and wait there, they will be found.
+
+With that, the druids mount their wolves and disappear into the forest. Vesmir's body begins to expand and shift, growing course grey fur and leathery wings, until he assumes the form of a 15 foot tall monstrous bat. A transformation Brood recognizes as something he has long been researching...the curse of Lycanthropy. The Werebat picks up Brade in its claws and they disappear into the night sky, leaving the party alone in the clearing with the body of Ebert Knotwise.
+
+The [the characters page](characters.html) has been updated with these new characters and factions, for reference.
