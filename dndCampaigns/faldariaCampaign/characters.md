@@ -101,3 +101,8 @@ A lot of this information is from the rumours Helena learned before leaving Fald
   - His father sided, an Avestrian lord, sided with the Ecclesia in the invasion. As a reward he was granted governorship over the Ecclesia, but was killed towards the end of the war. The title passed on to Edwin
   - **Rumour:** Under the thumb of the Archbishop, and afraid of his own command. Given that he was 10 when his father chose to betray Avestria join the Ecclesia, he is seen as either a traitor, or a person who simple “fell into” his position, depending on who you ask
   - **Rumour:** He will be coming through Talonstone for a parade in a couple weeks time
+
+- High Inquisitor **Volodar Harar**
+  - Leads the Redeemer's Inquisition (her mage hunters and secret police) in northern Vestran Province
+  -  A silver haired High Elven man, who has an affinity for the colour white and wears a symbolic half-mask
+  

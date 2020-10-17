@@ -230,3 +230,41 @@ Vesmir engages Brood in conversation, who (after a long time) recognizes that Ve
 With that, the druids mount their wolves and disappear into the forest. Vesmir's body begins to expand and shift, growing course grey fur and leathery wings, until he assumes the form of a 15 foot tall monstrous bat. A transformation Brood recognizes as something he has long been researching...the curse of Lycanthropy. The Werebat picks up Brade in its claws and they disappear into the night sky, leaving the party alone in the clearing with the body of Ebert Knotwise.
 
 The [the characters page](characters.html) has been updated with these new characters and factions, for reference.
+
+## Session 15
+
+The party buries Ebert Knotwise in a shallow grave, and heads back to the Sanctuary for the night, claiming to the druids there that he was kidnapped by a group of true believers.
+
+The party spends much of the next day resting in the Sanctuary, and arrive back in Talonstone in the evening. Returning to the Crane's hideout they hear excited whispers of a **"Duke Leto"** being spotted near Harden Hold. This is quickly overshadowed by news from a recently-returned Sethkan:  Governor Edwin Briggs is on his way, with more than just his retinue in tow. He is bringing the soldiers and materials to transform Talonstone into the staging ground for the coming invasion. The clock is ticking for Faldaria, but perhaps the party can use their position to deal to major blow to the governor's plans...
+
+Come morning Helena decides that it is time to enact her plan to replace the Bishop. Fetching a charismatic young Crane by the name of Fabian, the party makes their way to the hall of judgement, intending to pose as representatives of the Archbishop and install Fabian as Ebert's replacement. Through the power of magic, and Roger's silver tongue, they make their way into the office of High Inquisitor **Volodar Harar**.
+
+Susanna (Helena), her bodyguard Friedrich (Roger), and her secretary Brood (Brood), inform the skeptical Inquisitor that Ebert has been secretly killed at the Archbishop's orders, and that Fernando (Fabian) is to be his replacement. The High Inquisitor seems dubious at first, but after much convincing agrees to help settle Fernando into the role of Bishop while he awaits further confirmation from the Archbishop. He writes a letter to the Archbishop which he asks Helena to deliver, and sends "Sussana's" delegation on their way.
+
+Nearly home-free, Helena, Roger, and Brood leave the office of the High Inquisitor, and encounter one final hitch: standing outside the High Inquisitor's door is Barretta Blackstone. Barretta recognizes Helena and Brood, but does not say anything as she enters the High Inquisitor's office and is introduced to the new "bishop".
+
+In four days the governor will be bringing an army to town, and the party has more power, allies, and opportunities than ever before...but the might of the Redeemer has never been quite so close at hand...
+
+## Session 16
+
+Six years ago, during the Avestrian war.
+
+For just over a year, war has embroiled the Holy Kingdom of Avestria. With the King and his royal family (minus the errant Duke Leto) defending the capital of Aurestar, Ecclesian troops run rampant over eastern Avestria.
+
+Sir Jorin Ashunter of the Avestrian Knights (and his quire Sethkan) leads a regiment of troops skirmishing against Ecclesia forces in the east, cutting supply lines and liberating occupied towns. Recently they have been joined by reinforcements from the North: the Faldarian army led by King Sybald Brightwind. Among the Faldarian ranks is Oswyn Willpot of the Kings Guard, and a group of irregulars from the Wyvern’s Shadow monastery led by Master Ghesh.
+
+With their newly conjoined strength the armies hope to start hitting the Ecclesia hard, and winning the decisive battles which will be necessary to turn the tide of the war. They do not have to wait long for their opportunity. The allied army receives a call for aid from Malcolm Briggs, lord of Briggs harbour and one of the most powerful holdouts in eastern Avestria. The walled city of Briggs harbour is nearly impenetrable when well defended, but Lord Briggs and the majority of his forces were caught outside the castle. Now, a superior Ecclesian force besieges Briggs harbour, with most of its defenders outside its walls.
+
+Malcolm Briggs has requested that Jorin and Sybald's army join him in liberating Briggs harbour, and the people trapped within. After several days of hard march, they rendezvoused with the Briggs Harbour army north of the city. As heavy rains begin to fall, the commanders of the allied armies gather to plan their attack. They will assault the outnumbered Ecclesians, and drive them against the castle walls, where Briggs archers can rain arrows down upon them.
+
+At dawn, the armies engage in the muddy fields north of Briggs harbour, fighting for control of the bridges across the river which separates them. With King Sybald's mages scorching swathes through the Ecclesians, the allied forces begin to overwhelm their foes...until Malcolm Briggs gives and order, and the Briggs Harbour ballista begins shooting not at the Redeemer's Armies, but at Oswyn.
+
+Malcolm's soldier's circle around to engage Jorin and the Avestrian archers, while Malcolm leads his own honour guard to battle King Sybald. The Faldarian mages are quickly routed, but rather than flee to safety Sybald stands his ground and scatter Briggs's honour guard with a powerful thunderwave, leaving the Faldarian sorcerer king and one of Avestria's great lords to engage in single combat as the battle rages around them.
+
+As Sethkan's own battalion is destroyed he rushes to help the King. The Wyvern's Fang monks, cleverly held in reserve, sweep in to save Jorin and his archers. Oswyn's troops, now trapped behind enemy lines (many of them his own brothers in the Kings Guard) flee to safety, leaving Oswyn alone surrounded by his enemies.
+
+Just in time, the Ecclesians begin to route, and Oswyn fights his way back to his King. Ghesh's dragonborn monks suffer many casualties, and nearly break before Sethkan arrives to rally them. King Sybald, suffering terrible wounds, brings the traitor Malcolm to the brink of death with a Shadow Blade. The monks overrun Briggs, and at Ghesh's orders, kill him.
+
+The few remaining Ecclesian troops flee the battlefield as the Faldarians and Avestrians regroup out of range of the Briggs Harbour walls. Dark armoured mercenaries lead by Barretta Blackstone arrive on a nearby cliff face, cutting any hope of storming the city. Nevertheless, what was meant to be a trap to destroy the armies of Avestria and Faldaria has resulted in a bloody route of the Ecclesia's troops, and left the Redeemer's new ally Malcolm Briggs dead for his treachery.
+
+The armies now turn west, towards Aurestar, where the forces of the Redeemer gather in an attempt to put an end to the Avestrian king and capital... 
