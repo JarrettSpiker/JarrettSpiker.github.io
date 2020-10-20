@@ -51,7 +51,9 @@ title: "Characters"
     - {% include hoverImage.html text="Image" image="characterImages/Javette.jpg" %}
  - **Bilry**. A White Islander human man, and agent of the Whispering Hand
     - Formerly the captain of a White Isles ship, after becoming wheelchair bound he opened a shop in Talonstone as a front for a Whispering Hand 
-
+ - **Amaranth Chaedris**. A Changeling mercenary, and Gergee's former love interest. She has been tailing the party for some time, most notably as Nora, their waitress at the Happy Gnome
+    - She seems to be simultaneously furious at Gergee, and jealous of all the people around him.
+    - While she has no "real" form, this is her one of her preferred ones when she is not hiding her identity, which Helena briefly saw during their interaction {% include hoverImage.html text="Image" image="characterImages/amaranth.jpg" %}
 
 ## Unaligned NPCs and Organizations
 The continent contains several organizations which have not (yet) sided with either Faldaria or the Ecclesia in the coming conflict. They have their own interests, and may be convinced to aid Faldaria...or stand in the party's way

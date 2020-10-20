@@ -268,3 +268,25 @@ Just in time, the Ecclesians begin to route, and Oswyn fights his way back to hi
 The few remaining Ecclesian troops flee the battlefield as the Faldarians and Avestrians regroup out of range of the Briggs Harbour walls. Dark armoured mercenaries lead by Barretta Blackstone arrive on a nearby cliff face, cutting any hope of storming the city. Nevertheless, what was meant to be a trap to destroy the armies of Avestria and Faldaria has resulted in a bloody route of the Ecclesia's troops, and left the Redeemer's new ally Malcolm Briggs dead for his treachery.
 
 The armies now turn west, towards Aurestar, where the forces of the Redeemer gather in an attempt to put an end to the Avestrian king and capital... 
+
+## Session 17
+
+Regrouped after installing Fabian as the new Bishop of Talonstone, the group almost immediately falls into disagreement on what to do next. Unsure what to do with the High Inquisitor's letter, Helena wants to enlist the help of Amaranth (Gergee's ex-paramour), while the rest of the party wants kidnap an Inquisitor to bring to Vesmir and the Dark Circle.
+
+A frustrated Helena storms off to find Amaranth on her own, while the rest of then party plans their attack. Seeking an ally, she convinces Nora (the waitress at the Happy Gnome) to help her throw a Gergee themed party to find Amaranth. Nora suggests that she invite anyone she thinks is suspicious into a private room, so that she and Helena can question them together.
+
+When the moment of confrontation finally arrives, Helena enters the room to find an unconscious woman waiting for her. As she scrambles to hide the body, Nora slams the door behind them and knocks Helena to the ground. Standing over Helena, Nora's eyes turn black and her face shifts...revealing that Nora herself has been Amaranth the entire time.
+
+An irate and jealous Amaranth rebuffs Helena's overtures of friendship, but agrees to help the party. Her price is 100gp a week, and the condition that the first thing Gergee says when he sees her is:
+ - I am sorry
+ - You are beautiful
+ - I love you
+ - Apologize in specific for how he wronged her
+
+If Helena can make Gergee do all of that on his knees, Amaranth will even throw in a slumber party.
+
+Amaranth returns to the party, leaving Helena to deal with the unconscious elf, telling her that Boris knows how to contact her once Gergee is ready to apologize. Successful, though a little rattled, Helena departs the Happy Gnome to find a drink at Barretta's favorite bar: The Last Dance.
+
+Meanwhile, the rest of the party sets up an ambush in the slums of Talonstone. Dimitria and Sethkan, two known and easily identifiable enemies of the Ecclesia, will attempt to draw the attention of the Inquisition and lure a Warlock of the Redeemer into the slums. There, hiding in strategic locations, the rest of the party lies in wait. When then time is right they will attack, hopefully capturing the Warlock and dragging them into the sewers. From there **Hilde**, a Crane who knows the sewers well, will guide the party out of the city.
+
+Before the fighting can begin Roger reveals a draft of his love song for Helena to Oswyn, who comes to the horrifying realization that he is going to need to be the one to sing it.
