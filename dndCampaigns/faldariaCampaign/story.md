@@ -290,3 +290,41 @@ Amaranth returns to the party, leaving Helena to deal with the unconscious elf, 
 Meanwhile, the rest of the party sets up an ambush in the slums of Talonstone. Dimitria and Sethkan, two known and easily identifiable enemies of the Ecclesia, will attempt to draw the attention of the Inquisition and lure a Warlock of the Redeemer into the slums. There, hiding in strategic locations, the rest of the party lies in wait. When then time is right they will attack, hopefully capturing the Warlock and dragging them into the sewers. From there **Hilde**, a Crane who knows the sewers well, will guide the party out of the city.
 
 Before the fighting can begin Roger reveals a draft of his love song for Helena to Oswyn, who comes to the horrifying realization that he is going to need to be the one to sing it.
+
+## Session 18
+
+Dimitria and Sethkan decide to draw the attention of the Inquisition by testing their unarmed combat skills against each other. Unsurprisingly, it only takes a few minutes before Sethkan has been firmly put in his place, and a Redeemer's Army patrol appears to detain the criminals. Dimitria and Sethkan take to fighting the soldiers instead, and it is not long before masked Inquisitors appear, a Warlock of the Redeemer in tow.
+
+Raising emblems of the Redeemer, the Inquisitors bewitched Dimitria and Sethkan, filling their hearts with the fear of their skull-masked visages. The dragonborn flee into the alleyways of the slums, towards their waiting allies.
+
+The Warlock, along with his bodyguard, and one if the fear inspiring Inquisitors sprint past the fateful intersection where Brood and Oswyn laid their trap. Brood springs the trap and drops a barricade, blocking reinforcements. Those trapped on the opposite side immediately begin hammering on the barricade, attempting to break it down.
+
+As Gergee, Sethkan, Oswyn and Brood fight to subdue the Warlock, Inquisitor, and Bodyguard, Masked Assassins appear on the roofs of the slums and slink their way towards Dimitria and Roger. Roger casts Crown of Madness and turns the Bodyguard against his ward. As the battle begins to turn to the party's favor on the streets, on the roofs the Assassins reach Roger and Dimitria, and Dimitria is knocked unconscious, falling from her perch.
+
+The party on the ground begin breaking through walls, knocking an assassin to street level and cornering the Warlock. Roger saves Dimitria, but just as the Warlock is captured the barricade begins to give way... Roger casts a stinking cloud, and the enemies opposite the barricade fall to heaving and retching.
+
+Before they can recover, the party finishes off the remaining Inquisition on their side of the barricade. Brood throws the unconscious Inquisitor over one shoulder, and Hilde leads the group through a hatch in the ground, and down into the sewers...
+
+
+## Session 19
+
+Back at the Last Dance, Helena takes her first sip of Black Rot, and it goes directly to her head. Before she knows it she is singing Cindyal Loper's "Lasses Just Wanna Have Fun" and heading for the stage. Before she can make it, Barretta catches sight of her and drags her off to a private room, out of sight, chastising her for putting both their lives in danger after revealing herself both the the High Inquisitor and to her soldiers.
+
+Although Barretta is clearly annoyed with Helena's intoxication, she agrees to have a "slumber party" with her (to keep her out of sight, if nothing else). Barretta reveals to Helena that while Volodar Harar is not overtly acting against Fernando (Fabian), the High Inquisitor is dubious and is waiting to see what the result of his letter ot the Archbishop is. Until then, he has convinced Fabian to act as "acting Bishop", not not panic the people at the news of the beloved Ebert Knotwise's death.
+
+Helena passes out shortly thereafter, regaining consciousness later for just long enough to hear Barretta be summoned away with the news of a kidnapped Warlock in the slums, and hear Barretta lock the door behind her...
+
+Meanwhile, Hilde leads thew rest of the party through a series of low, narrow tunnels, eventually emerging into the lower sewers of Talonstone. Rats and and monstrous acid-spitting lizards infest these chambers, and the party finds themselves fighting their way through the muck and sewage.
+
+While the rest of the group fights rodents and reptiles, with a Warlock over one shoulder Brood wanders the sewers. Following the noise of a sonorous chittering, Brood finds himself locking eyes with a creature somewhere between a beast and a man. Standing on two feet, at nearly five feet tall, the creature has the beady eyes, the wormlike tail, and protruding knife-sharp teeth of a rat. Its wears clothing, though its body is covered in coarse grey fur. The manifestation of the silhouette Brood say in the shadows of the sewers during his last visit. The creature smiles at Brood. "Ah Brood the Unshifted! Is that for us? It looks delicious".
+
+The creature reveals himself to be **Grupet**, a wererat and a member of the Brotherhood of Rhalagai, sent by "the Chief" to spy on Talonstone. He knows about Vesmir's deal with the party, and agrees to help them get the Warlock out of the sewer. As Grupet moves to help the party clear out the rats, however, he spots Hilde and is overcome by rage. Whipping out a serrated knife, he threatens mutilation in retribution for unpaid debts Hilde has warned the party she has left unpaid. Standing up for Hilde, Brood sweeps Grupet's legs out from under him, stuns him, and holds his head under the water.
+
+While the rest of the party clears out the rats and lizards blocking their way, Brood threatens Grupet against coming after Hilde before throwing him against a wall. With a spooked Hilde leading the way, the party climbs their way up out of the lower sewers before Grupet can recover.
+
+Climbing through yet more passageways they find themselves in tunnels full of not sewage, but rain and river water. With water up to their waists, Hilde tells the group that they have nothing to fear in these chambers because "Olk Seeka scares away anything big enough to be worth worrying about". After a few minutes of wading, the party comes face to face with Old Seeka herself.
+
+A 60ft long serpent, stripped in various shades of icy blue, coiled upon itself and asleep. As the water flows past her, it crystalizes into flows of ice as it touches her scales. "She found her way down here, I think the water keeps her cool". The party attempts to sneak their way past the slumbering Ice Serpent, and move lke ghosts in the night...all except for Gergee, who lets out a startled cry after nearly falling into the water.
+
+Old Seeka awakens and begins scenting the air for the world's largest Gnome, frosty tongue flitting in and out of her mouth. With Roger playing soothing music, Gergee tries to calm the giant beast...but it is no use. Old Seeka uncoils herself and blocks Gergee's escape...
+

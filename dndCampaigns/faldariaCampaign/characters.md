@@ -51,7 +51,7 @@ title: "Characters"
     - {% include hoverImage.html text="Image" image="characterImages/Javette.jpg" %}
  - **Bilry**. A White Islander human man, and agent of the Whispering Hand
     - Formerly the captain of a White Isles ship, after becoming wheelchair bound he opened a shop in Talonstone as a front for a Whispering Hand 
- - **Amaranth Chaedris**. A Changeling mercenary, and Gergee's former love interest. She has been tailing the party for some time, most notably as Nora, their waitress at the Happy Gnome
+ - **Amaranth Chaedris**. A Changeling mercenary and expert impersonator. Gergee's former love interest. She has been tailing the party for some time, most notably as Nora, their waitress at the Happy Gnome
     - She seems to be simultaneously furious at Gergee, and jealous of all the people around him.
     - While she has no "real" form, this is her one of her preferred ones when she is not hiding her identity, which Helena briefly saw during their interaction {% include hoverImage.html text="Image" image="characterImages/amaranth.jpg" %}
 
@@ -69,6 +69,7 @@ Not much is known of the Brethren at this time, other than that they appear to b
  - **Vesmir** A male shifter of the Brethren, with greased hair and dark beady eyes. His voice resonates with itself, both low and whispery, and high and screechy
     - Known to be a bat lycanthrope (a werebat)
     - {% include hoverImage.html text="Image" image="characterImages/vesmir.jpg" %}
+ - **Grupet** A wererat, who spends his time half-shifted in the sewers of Talonstone, spying for the Brethren's Chief.
 
 
 ## Enemy NPCs
