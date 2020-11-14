@@ -116,11 +116,11 @@ In Ulric's Cove, the separated party quickly exchange a Message before fighting 
 
 Meeting back at the docks, Petrel tells the group he can take Alita the rest of the way, if they can get down river. The party rests as Gull offers to figure out the mechanism which can get the Cove's hoisted boat back in the water.
 
-Roger regales the party with a tale he heard of their Talonstone acquaintance Javette, before setting about trying to figure out the Cove's crane and boat on his own. He makes some progress moving the crane, before the mechanism audibly breaks, and Gull calls him into the gearhouse below. There, he sees that the gears which power the crane have been sabotaged...and feels Gulls knife in his back.
+Roger regales the party with a tale he heard of their Talonstone acquaintance Javette, before setting about trying to figure out the Cove's crane and boat on his own. He makes some progress moving the crane, before the mechanism audibly breaks, and Gull calls him into the gear house below. There, he sees that the gears which power the crane have been sabotaged...and feels Gulls knife in his back.
 
 Gull confesses his betrayal, preferring the money of the Ecclesia over the ideology of Bilry and the Whispering Hand. Clutching a bronze medallion around his neck, he calls out, and war horns blare from the forest above.
 
-The party springs into battle as Church of the Redeemer soldiers begin to pour into the Cove. Dimitria and Gergee rush into the gearhouse, and together with Roger they knock Gull unconscious. Brood rushes to the gate of the Cove, and manages to bar the way of several soldiers while Oswyn rushes to help him. Helena transforms into a sea monster, and scoops Alita to safety in the river.
+The party springs into battle as Church of the Redeemer soldiers begin to pour into the Cove. Dimitria and Gergee rush into the gear house, and together with Roger they knock Gull unconscious. Brood rushes to the gate of the Cove, and manages to bar the way of several soldiers while Oswyn rushes to help him. Helena transforms into a sea monster, and scoops Alita to safety in the river.
 
 The Redeemer's soldiers break through the gate, and Brood scrambles to use the crane to put the boat into the river. In an impressive feat of strength, Roger shoves the broken gear back into place, and Brood is able to swing the boat out over the river...but not lower it.
 
@@ -155,9 +155,9 @@ Novu's letter:
 
 *The sewers around the port district have been backing up all over the place. Barretta sent down some civilians to look into it yesterday, and we haven't heard from them since. Not a military matter, so we are paying the Mercenaries to deal with this out of the city's budget. New recruits get the shit jobs, ha.*
 
-*You can access the sewers from behind the portmaster's quarters near the river. Figure out what's going on and deal with it. 50gp reward, report back when its done.*
+*You can access the sewers from behind the port master's quarters near the river. Figure out what's going on and deal with it. 50gp reward, report back when its done.*
 
-*You can reach me at the Last Dance. If you want to split the reward, we can provide you with backup...or you can risk your neck going in alone. Barrett seems to think you're promising. Dont fuck it up.*
+*You can reach me at the Last Dance. If you want to split the reward, we can provide you with backup...or you can risk your neck going in alone. Barrett seems to think you're promising. Don't fuck it up.*
 
 *Novu*
 
@@ -215,9 +215,9 @@ Oswyn rushes ahead as the party scrambles to enter the circle of trees after the
 
 As they enter the circle of trees, they find a raised stone alter standing in the center, the Bishop held down against it by vine blights. To either side of the Bishop stand gnomish druids in dark robes. As the party watch another figure, a tall gaunt man with beady dark eyes and greased back hair, hands the druids a serrated dagger made out of the fang of some large beast, and then retreats as the druids begin to chant a ritual, holding the dagger aloft above Ebert's heart.
 
-In front of the alter, Oswyn lays pinned to the ground by another pair of monsters molded of earth and vines. These beasts, however, are not slow and shambling. They resemble massive ten-foot-tall wolves, and eye their prey with all the bloodthirst of a true predator. 
+In front of the alter, Oswyn lays pinned to the ground by another pair of monsters molded of earth and vines. These beasts, however, are not slow and shambling. They resemble massive ten-foot-tall wolves, and eye their prey with all the blood thirst of a true predator. 
 
-A desperate battle to pull Oswyn out of danger and stop the ritual commences. Roger casts a cload of noxious gas, robbing the enemy of most of their ability to act, as Gergee and Brood rush to engage then wolves. Helena runs to Oswyn's aid, and together they pull free of the beasts' grasp.
+A desperate battle to pull Oswyn out of danger and stop the ritual commences. Roger casts a cloud of noxious gas, robbing the enemy of most of their ability to act, as Gergee and Brood rush to engage then wolves. Helena runs to Oswyn's aid, and together they pull free of the beasts' grasp.
 
 Hidden amongst the treetops, Dimitria sees her party struggling against the wolves, and decides to take a more direct route to stopping the sacrificial ritual. She knocks an arrow, and fires on then Bishop. Roger follows suit, and with a powerful Shatter, he and Dimitria put a permanent end to Bishop Ebert Knotwise.
 
@@ -322,9 +322,24 @@ The creature reveals himself to be **Grupet**, a wererat and a member of the Bro
 
 While the rest of the party clears out the rats and lizards blocking their way, Brood threatens Grupet against coming after Hilde before throwing him against a wall. With a spooked Hilde leading the way, the party climbs their way up out of the lower sewers before Grupet can recover.
 
-Climbing through yet more passageways they find themselves in tunnels full of not sewage, but rain and river water. With water up to their waists, Hilde tells the group that they have nothing to fear in these chambers because "Olk Seeka scares away anything big enough to be worth worrying about". After a few minutes of wading, the party comes face to face with Old Seeka herself.
+Climbing through yet more passageways they find themselves in tunnels full of not sewage, but rain and river water. With water up to their waists, Hilde tells the group that they have nothing to fear in these chambers because "Old Seeka scares away anything big enough to be worth worrying about". After a few minutes of wading, the party comes face to face with Old Seeka herself.
 
-A 60ft long serpent, stripped in various shades of icy blue, coiled upon itself and asleep. As the water flows past her, it crystalizes into flows of ice as it touches her scales. "She found her way down here, I think the water keeps her cool". The party attempts to sneak their way past the slumbering Ice Serpent, and move lke ghosts in the night...all except for Gergee, who lets out a startled cry after nearly falling into the water.
+A 60ft long serpent, stripped in various shades of icy blue, coiled upon itself and asleep. As the water flows past her, it crystallizes into flows of ice as it touches her scales. "She found her way down here, I think the water keeps her cool". The party attempts to sneak their way past the slumbering Ice Serpent, and move lke ghosts in the night...all except for Gergee, who lets out a startled cry after nearly falling into the water.
 
 Old Seeka awakens and begins scenting the air for the world's largest Gnome, frosty tongue flitting in and out of her mouth. With Roger playing soothing music, Gergee tries to calm the giant beast...but it is no use. Old Seeka uncoils herself and blocks Gergee's escape...
 
+## Session 20
+
+The party scrambles to reach then storm drains up above, or calm Old Seeka, but with no luck. Old Seeka strikes, and the party engages the giant ice serpent in combat.
+
+Frost coats the party's weapons and armour as their strike Seeka's icy scales. Brood climbs the serpent to attack with his rapier from above. Gergee is snapped up in Seeka's jaws, and after a moment of struggle, is swallowed, plunged into the acidic darkness of the snakes stomach. Dimitria is caught up in Seeka's coils and is crushed into unconsciousness.
+
+With a jumping cleave, Oswyn opens a hole in Seeka's belly near the newly emerged Gnome shaped bulge. Reaching through the hole, Oswyn grabs Gergee by the boot and yanks him free. Freed, Gergee sees his opportunity and strikes, bringing Seeka to the brink of death. Seeing his chance to kill the beast who had tried to consume him, Gergee chooses to let Seeka slitter away deeper into the sewers.
+
+As the sound of a storm brews above and rain begins to flow down into the sewers, Hilde leads the group down a long tunnel, the water flowing at their back. After many minutes of wadding through ever rising water the group emerges into the storm, south of the Talonstone walls. Badly injured, and with no spells left to cast, the party resolves to rest the night before finding Helena and heading to the Temple of Echran in the morning.
+
+Come morning, Helena is awakened with a splitting hangover, and a Sending from Roger in her head, directing her to meet the party south of the city. Alone in the locked hotel suite, Helena goes through Barretta's documents and learns that Barretta will be using the Blackstone Mercenaries as security for the Governor while he is in the city. In order to escape the room, Helena breaks a window and sets a door on fire before disguising herself as Barretta and ordering the innkeeper to let her out.
+
+Helena casually makes her way through Talonstone, until she spots a pair of Inquisitors following her. Casting Darkness and running through nearby alleyways, she almost managers to escape them but is ultimately cornered. Facing four enemies, Helena tries to defend herself, but te outlooks seems bleak...before one of the Inquisitors turns on the rest, giving Helena a change to fight back. The sound of squeaking wheels fills the alleyway and Darkness briefly engulfs two of the Inquisitors, before being split by a lightning bolt and the silhouette of a floating man casting lighting down upon the Inquisition.
+
+With the Inquisitors beaten to unconsciousness, or brought down by lightning, a floating **Bilry**, suspended on a column of wind, floats back down into his wheel chair. The traitorous Inquisitor is revealed to be Petrel, who hurriedly wheels Bilry out of the alleyway, and ushers Helena away from the scene of the battle. Bilry tells Helena he has been in hiding since his shop was burnt down, and she directs him to the Crane's hideout. Bilry asks Helena to have the party come speak with him when they return to Talonstone, before parting ways and leaving Helena to rejoin her party.
