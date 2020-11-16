@@ -16,3 +16,18 @@ Additionally (though I must say that I hesitate to even bring it up) some oral h
 
 Master Librarian of Five Spire,
 Hubert Jeraldine
+
+## Letter to Helena from Five Spire
+
+*Inside an envelope with this letter is a golden locket*
+
+Helly, my dearest little iris.
+
+A sweet little birdie told me something of what you have been up to. Sounds daring. You never change.
+
+I've been working on something since our last little bit of fun together, and when I heard old Hubert (the bore) was sending a package your way I decided to slip it in. Knowing you, I am sure you will get far more fun out of it than I ever could.
+
+Ta-ta! XOXO
+C
+
+
