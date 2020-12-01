@@ -364,3 +364,23 @@ Back in Talonstone the party resolves to share some Black Rot at the Happy Gnome
 Oswyn, at Dimitria's prodding, sneaks back into Helena's room to leave her a note explaining what the party is doing. This wakes a sleeping Helena, who, in a moment of confusion, breaks a stool over Oswyn's back.
 
 Alone in his Brood speaks into Rengar's dream catcher amulet, asking how he can achieve transformation...and Rengar replies that Brood is able, but must first prove himself to Rhalagai, and that he will be watching in the days to come...
+
+## Session 22
+
+Heading back to sleep in a secluded root in the Crane hideout, Gergee finds a rattle made out of a manticore's tail in his sleeping bag, and a note from Amaranth mentioning Helena by name. Gergee and Helena get into a heated argument in which we learn that Gergee never actually slew the manticore...it was Amaranth, and Gergee simply took the credit. We also learn the reason that Amaranth is so upset with Gergee: in an attempt to get away from an obsessed Amaranth, Gergee poisoned some of her food with a sleeping draught and slipped away in the night. Although Gergee is sure that Amaranth is not a trustworthy ally, Helena convinces him they need the shapeshifter's help, and Gergee agrees to apologize.
+
+With Governor Edwin Briggs and his battalion scheduled to arrive the following day, the party sets to planning. Jorin informs the group that the governor will split from his approx. 500 soldiers to parade through Talonstone and spend the night in the Bishop's Mansion, while the battalion brings their food and supplies to the barracks outside of the city. Jorin advises that if the party wants the element of suprise against both the governor and the barracks, they will need to attack almost simultaneously.
+
+In addition Sethkan tells the party that while he was a prisoner in the barracks he noticed a number of Inquisitors entering the lower levels through a secret entrance. Derna tells the party that she has heard that one of Barretta's mines in the region was recently abandoned, and that there should still be some mining explosives inside.
+
+Meanwhile, the party reunites with Bilry of the Whispering Hand. The old captain offers the party his deepest thanks, as well as gifts. For Dimitria a Storm Singer's pendant, granting her the protection of the winds. For Roger, a cittern which used to belong to the legendary Wren Farstrider and still bears some of her magic: it can compel those who hear it to believe any story told by its wielder. For Brood, Bilry delivers a large book called "The Myths and Cultures of the Peoples of the Sylvithryn Wood", and a note from the Five Spire head librarian (see [the documents page](documents.html)). Tucked inside the book is an envelope addressed to Helena, containing a magical silver locket of unknown powers.
+
+## Session 23
+
+Brood decides to ask for Javette's help before heading to Barretta's abandoned mine to find the explosives. He finds Javette celebrating a reunion with her old Silver Legion squad: the war cleric Garrus, a cleric of Cherebor called Arameia, and the warrior Shayla. 
+
+The Silver legion squad decide to help Brood for old time's sake, so with Hilde and Derna in tow, garbed in freshly knitted sweaters from Derna, they head north to the abandoned mine.
+
+They monster hunters find the mine infested with scavenging grimlocks, and lurking Carrion Crawlers. The monster hunters prove worthy of their titles as they quickly clear a path through the grimlocks, and Javette proves that the injuries she has sustained to her hand make ner no less deadly as she easily dispatches worm-like carrion crawlers.
+
+The Silver legion finds a small fortune in ores and gems, and with Derna's help Brood brings a large barrel of mining explosives back with him to Talonstone.
