@@ -384,3 +384,52 @@ The Silver legion squad decide to help Brood for old time's sake, so with Hilde 
 They monster hunters find the mine infested with scavenging grimlocks, and lurking Carrion Crawlers. The monster hunters prove worthy of their titles as they quickly clear a path through the grimlocks, and Javette proves that the injuries she has sustained to her hand make ner no less deadly as she easily dispatches worm-like carrion crawlers.
 
 The Silver legion finds a small fortune in ores and gems, and with Derna's help Brood brings a large barrel of mining explosives back with him to Talonstone.
+
+## Session 24
+
+Waiting for their time to strike, the rest of the party waits in the Crane's hideout. Trying Wren Farstrider's Cittern for the first time, Roger convinces Helena that the porridge being eaten by the Cranes is disgusting and foul.
+
+Meanwhile, Gergee waits in his room for his spurned partner. Amaranth enters, guised as Hilde, and confronts Gergee about the sins of his past. Gergee managers to placate Amaranth, and she agrees to help the party for her usual price of 100 gold pieces per week. Gergee convinces her to accept payment after the job is done.
+
+The rest of the party meets Amaranth, and with Brood and Sethkan returning with explosives and the location of the secret entrance to the Barracks (respectively) the party sets forth.
+
+Gergee, Roger, and Amaranth watch from a safe distance as Brood and the rest of the Blackstone Mercenaries escort the young governor Edwin Briggs through the city of Talonstone, and eventually to the Bishop's mansion. After a banquet between Barretta, Volodar Harar, Fabian, and the Governor, the dignitaries head to their beds, and most of the mercenaries depart and Brood is left mostly unattended in the mansion. Sneaking into a large bathroom, he opens a window and the party make their way in past the guards.
+
+## Session 25
+
+The party hatches a plan (that for once does not involve walking directly up to their adversary and demanding what they want): Brood will introduce Roger as entertainment provided by Barretta, and while they cause a distraction Gergee and Amaranth will find a replace Edwin Briggs.
+
+Roger manages to draw a large crowd of Inquisition, soldiers, and mercenaries in the rear atrium of the mansion, clearing the way for the rest of the party. While Roger fights ot hold the attention of the Inquisition Bodyguard set to protect the Governor, Brood and Gergee search the mansion. At one point they stumble into the room of a servant, asking where they can find the governor, and Gergee needs to intimidate the servant into silence with threats of revealing th content of her diary to the world.
+
+As the would-be assassins finally locate the Governor, Roger switches to using the power of the Cittern to bewitch his listeners with the story of "Roger, the Greatest Bard Ever To Live". The sound ringing through the hallways, not only are the guards entranced, but so is Brood and the governor. With Brood ensorceled, Gergee subdues the Governor and stuffs him in his sleeping bag. Amaranth replaces Edwin, and Gergee carries the boy out to the horses of the governor's elite guard and steals a steed, meeting little resistance as he races off into the night.
+
+Hearing Gergee make his escape, Roger ceases his story, leaving his audience bewildered, but aware that they had been magically ensnared by the young bard. Brood and Roger make a break for the horses, as Brood throws his makeshift firebomb into the mansion. The pair manage to mount a horse and ride it through the crowd of guard trying to block their escape. They hastily follow in Gergee's trail as the mercenaries and soldiers scramble to give chase...
+
+Meanwhile, in a small fireless camp in the woods near the Talonstone barracks, Sethkan shows Dimitria and Helena the tunnel which will bring them into the dungeon-basement of the barracks. Using the "Walkee Talkees", Helena requests Rengar's help, who appears in the camp some time later. Helena decides to sneak into the camp to try and destroy the army's building supplies, while Dimitria takes Jorin and Sethkan into the barracks themselves to destroy their food supplies. The Brethren and the Dark Circle agree to create a distraction at the western end of the encampment when called upon.
+
+Dimitria asks Rengar if any of the Brethren can help them sneak into barracks, and Rengar offers the services of a drk-eyed shifter woman calling herself Mirvena, who moves easily and unseen through the shadows of the forest and into the party's camp.
+
+
+## Session 26
+
+Helena and Oswyn make their way into the camp, posing as cabbage sellers. Talking their way past many guards (and even selling some cabbages along the way). They make their way to the supply tent, and fill it with tinder after some quick deception on Helena's part, although the soldiers now think Helena is crazy. Oswyn's armour is discovered and confiscated, and Helena convinces the Ecclesians that she has killed the Stag.
+
+Dimitria, Jorin, Sethkan, along with a few Crane soldiers and Mirvena, make their way though the secret entrance and into the barracks dungeon. They free a man from being tortured, and release the prisoners held there. A distressed Dimitria sees that Oswyn's armour is being stored in the barracks. Thinking her friends dead or in danger, she calls for the Brethren and Dark Circle to begin their attack.
+
+Waiting amongst the soldiers for the chance to light their fire, Helena hears the sounds of battle erupt from the western end of the encampment. Low base roars cause the tent poles to tremble, Vesmir's shrieks peirce the air, and against the darkness of the night sky, the silhouettes of soldiers sent flying into the air can be seen, tossed around like rag dolls.
+
+Inside the barracks Dimitria, Jorin, Sethkan, Mirvena, and some Crane soldiers fight their way out of the dungeon, stealthily kill the barracks captain, and locate the army's food supplies in the keep's courtyard. Sethkan dons the Stag armour, and strikes fear into the hearts of the Ecclesians as he breaths fire into their midst, some convinced that the Stag has returned from hell as a fire breathing demon. They make quick work of the supplies guards, and with the whole camp outside the barracks walls in chaos, they prepare to complete their mission.
+
+## Session 27
+
+With the encampment in chaos thanks to the Brethren and Dark Circle, and ballista bolt flying overhead, Helena sees her opportunity. Using her single stick of dynamite, Helena ignites the tinder-packed supply tent...and also sets off an explosion which throw her and Oswyn against the palisade in the process. Their deception finally falling apart, the pair of them are quickly surrounded. Through the Walkee Talkee, Rengar tells them Vesmir can provide an extraction if they can get to high ground. Oswyn summons Boris to carry Helena into the barracks, hoping to reach the roof.
+
+Inside the palisade, Dimitria and the Cranes rig the explosives to destroy the food supplies. Moments before it is set to explode, Helena and Oswyn emerge into the courtyard, closing the palisade gate behind them. Calling on her monk Ki to fuel her speed, Dimitria  scoops up Helena and Oswyn and carries them up to the second story of the barracks just in to avoid the worst of the explosion.
+
+As the ballistae atop the barracks fire again and animal roars of pain echo through the night, Rengar's voice (deeper and less enunciated than usual) rings through the Walkee Talkees, asking the party to disable the ballistae. Mirvena, half shifting into the form of a large were-panther, climbs the walls of the keep, and sets about killing the soldiers there. The rest of the party make their own way up, and set to killing the archers manning the ballista.
+
+As the party reaches the highest roof of the barracks, and begin attacking the last ballista, the last archer in the fortress manages a final shot with the massive weapon...in the distance the piercing howl of a wolf is cut disturbingly short by a yelp of pain, and then silence.
+
+The party all reach the top level of the barracks as soldiers break their way back into the courtyard in pursuit. As they deal with the last archer and the sergeant commanding the ballista, Vesmir lands on the roof, and bids the party to ride him to safety. The werebat it unable to carry the Stags armour, so Boris scoops up Sethkan and carries him off the walls of the barracks and out into the forest, to cries of "The Stag Rides Again!". Mirvena leaps clear and disappears into the night, and the rest of the party mount Vesmir, who flies them to the safety of the forest, out of reach of the Ecclesians for the moment.
+
+Vesmir leaves them there with ominous news: Fenrir is dead, killed by the final ballista bolt. Nevertheless, the party's goal is accomplished, the Ecclesians food and supplies are destroyed, and the invasion of Faldaria has surely been delayed

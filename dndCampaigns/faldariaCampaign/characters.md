@@ -18,6 +18,7 @@ title: "Characters"
 
 ### Faldarians
 - **Oswyn "The Stag" Willpot**. A Faldarian Kings Guard and Paladin, who is joining the party for their quest
+    - Has a celestial Steed, a stag called Boris. {% include hoverImage.html text="Image" image="characterImages/Boris.jpg" %} 
 - **Erys Fiveclover**. The Chancellor of Faldaria, and a halfling cleric of the Radiant Ones
 - **Carlyle Fancifoote**. Roger's mentor, and a human bard to Faldaria's Court of the Nine Stars
 - **King Sybald Brightwind**. King of Faldaria, a human rumoured to have Faerie blood in his veins
@@ -65,11 +66,23 @@ The party witnessed that start of a Dark Circle ritual which is used to somehow 
    - {% include hoverImage.html text="Image" image="characterImages/brade.jpg" %}
 
 ### The Brethren of Rhalagai
-Not much is known of the Brethren at this time, other than that they appear to be working with the Dark Circle
+An organization of Shifters who appear to be able to shit into lycanthropic forms at will. Worshippers of the old god Rhalagai, and apparently hailing from the Rotwood, not much is known of the Brethren at this time, other than that they appear to be working with the Dark Circle.
  - **Vesmir** A male shifter of the Brethren, with greased hair and dark beady eyes. His voice resonates with itself, both low and whispery, and high and screechy
     - Known to be a bat lycanthrope (a werebat)
     - {% include hoverImage.html text="Image" image="characterImages/vesmir.jpg" %}
  - **Grupet** A wererat, who spends his time half-shifted in the sewers of Talonstone, spying for the Brethren's Chief.
+     - {% include hoverImage.html text="Image" image="characterImages/wererat.jpg" %}
+ - **Fernir and Fenrir** A pair of twin werewolves, hotheaded and fierce.
+    - Fenrir was killed at the battle to destroy the supplies at the Talonstone barracks by a ballista
+    - {% include hoverImage.html text="Fenrir" image="characterImages/fernir.jpg" %}
+    - {% include hoverImage.html text="Fernir" image="characterImages/fenrir.jpg" %}
+ - **Mirvena** A werepanther, able to move easily and unseen through the night. She prefers to remain hidden, and watch her prey unseen
+    - {% include hoverImage.html text="Image" image="characterImages/mirvena.jpg" %}
+ - **Tusk** A were-warthog, who seems to maintain his lycanthropic form at all times, and stays close to Rengar's side
+    - {% include hoverImage.html text="Image" image="characterImages/tusk.jpg" %}
+ - **Rengar** The Chieftain of the Brethren of Rhalagai. A massive, muscular man who seems to command the respect of all of the Brethren
+    - Communicates with the party through magical dream-cathcer-like amulets of this own creations
+    - {% include hoverImage.html text="Image" image="characterImages/rengar.png" %}
 
 
 ## Enemy NPCs
@@ -100,12 +113,13 @@ A lot of this information is from the rumours Helena learned before leaving Fald
 
 - **Edwin Briggs**
   -  Governor of Vestran Province
-  -  18 y.o. human. Governs Verstran Province from the city of Briggs Harbour.
+  -  16 y.o. human. Governs Verstran Province from the city of Briggs Harbour.
   - His father sided, an Avestrian lord, sided with the Ecclesia in the invasion. As a reward he was granted governorship over the Ecclesia, but was killed towards the end of the war. The title passed on to Edwin
   - **Rumour:** Under the thumb of the Archbishop, and afraid of his own command. Given that he was 10 when his father chose to betray Avestria join the Ecclesia, he is seen as either a traitor, or a person who simple “fell into” his position, depending on who you ask
-  - **Rumour:** He will be coming through Talonstone for a parade in a couple weeks time
+  - {% include hoverImage.html text="Image" image="characterImages/edwin-briggs.jpg" %}
 
 - High Inquisitor **Volodar Harar**
   - Leads the Redeemer's Inquisition (her mage hunters and secret police) in northern Vestran Province
   -  A silver haired High Elven man, who has an affinity for the colour white and wears a symbolic half-mask
+  - {% include hoverImage.html text="Image" image="characterImages/highInquisitor.jpg" %}
   
