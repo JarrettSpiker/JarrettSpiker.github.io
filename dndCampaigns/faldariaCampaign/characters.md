@@ -12,6 +12,7 @@ title: "Characters"
 - Brood, a Longtooth Shifter barbarian/rogue, searching for clues to the origins of his people.
 - Helena VonHubris, a Five Spire trained Tiefling sorceress, and Faldaria's Minister for the Promotion and Protection of Sorcery
 - Roger Willpot, an apprentice court Bard from a noble family notable for producing great fighters, in search of tales worthy of his telling
+- Countess Kate, a well known satyr influencer, who travels the land with her animal companion Taylor Sloth
 
 
 ## Ally NPCs
@@ -45,6 +46,11 @@ title: "Characters"
    
  - **Boris Burrowfoot**. The gnomish innkeeper of the Happy Gnome
 
+### Griffoncreek
+
+ - **Gerickeron "Ricky" Bobbins** The leader of the ranger's guild in Griffoncreek, and now de-facto
+    - A half-gnome griffon and hippogriff trainer
+
 
 ### Other
  - **Javette Durond**. An Ocredian human woman, and captain of the Silver Legion
@@ -74,7 +80,6 @@ An organization of Shifters who appear to be able to shit into lycanthropic form
      - {% include hoverImage.html text="Image" image="characterImages/wererat.jpg" %}
  - **Fernir and Fenrir** A pair of twin werewolves, hotheaded and fierce.
     - Fenrir was killed at the battle to destroy the supplies at the Talonstone barracks by a ballista
-    - {% include hoverImage.html text="Fenrir" image="characterImages/fernir.jpg" %}
     - {% include hoverImage.html text="Fernir" image="characterImages/fenrir.jpg" %}
  - **Mirvena** A werepanther, able to move easily and unseen through the night. She prefers to remain hidden, and watch her prey unseen
     - {% include hoverImage.html text="Image" image="characterImages/mirvena.jpg" %}
@@ -84,10 +89,53 @@ An organization of Shifters who appear to be able to shit into lycanthropic form
     - Communicates with the party through magical dream-cathcer-like amulets of this own creations
     - {% include hoverImage.html text="Image" image="characterImages/rengar.png" %}
 
+### Asphodel and the Finger Mages
+ - Asphodel is a powerful wizard, who leads a group of mages out of Five Spire whom she calls the "Finger Mages". Their stated goal is to wreak havoc on the Ecclesia and its people, to distract the church from an eventual attack on Five Spire
+ - The Finger Mages have all been killed in the battles of Griffoncreek, but Asphodel still lives
+ - Asphodel is a gnomish woman, who often wears flowing prismatic robes, and levitates herself to a more intimidating height. She is missing her ring fingers, as well as her right eye (which has been replaced by an eye tattoo over unmarked flesh
+
+### Cassius and his Inquisition Monks
+ - Dimitria's husband Cassius leads a group of monks in a mission to infiltrate, and bring about the fall of, Five Spire. The Prophet has promised them the land Five Spire sits on as a dragonborn enclave after the city falls 
+ - Cassius has been imprisoned inside of his locket by Asphodel, who carries the locket to keep Dimitria in check. The monks have gone into hiding after their leader's demise
+
+## Dragons and Celestials
+ - **Praxis** a white dragon, whose lair is in the vault of the Temple of Desmut. He is jealous of his treasure, but willing to trade peices of it in exchange for a ring which his sister Nox wears
+ - **Nox** a black dragon, whose lair is in the destroyed Radiant Temple. Known to be very prideful
+ - **Felix** A sphynx celestial who guards the moon gate of the city
+    - Tasked by the Radiant Ones to let only the high priests of Aurestar and their emissaries through
+    - Clever and playful, and with no love for the Ecclesia
+ - **Crowley** A raven celestial who guards the Sixth Spire library
+    - Created by Mathas to be the librarian for the Sixth Spire
+    - His power is waning, since the death of Mathas
+
+
+## Gods
+ - **Min** God of Fertility and Lettuce
+    - Father of Kate and her sister Klara. Also father of Persephone, Prometheus, and Pandora with the dragon Praxis
+    - Trapped in the form of a goat after the Wrending
+
+ - **Feluruian** a.k.a **Luthien** God of Exchange and Mystery
+    - The Fae queen, and an old ally of Faldaria. She occupies the Fae lands in the north
+    - The patron of Royal Guards of Faldaria, whose members adopt names after her various aspects (stag, hawk, lion, mantis, etc)
+    - Unable to leave the Fae lands after the Wrending
+
+ - **Rhalagai** God of Beasts and the Hunt
+    - The patron of Rengar's Brethren, Rhalagai occupies their minds so he can "hunt through them", granting them fully shifted forms
+    - Obsessed with power and the drive to hunt/kill 
+
+ - **Cherebor** God of Death and the Beyond
+ - **Echran** God of the Harvest
+ - **Desmut** God of Wealth and Mines
+    - Believed by his followers to once have been a mortal drarf, who ascended to godhood afte many great deeds 
+ - **Mathas** God of Knowledge
+    - Mathas died some time after the Wrending 
+
 
 ## Enemy NPCs
 
-A lot of this information is from the rumours Helena learned before leaving Faldaria.
+- Celeste **The Prophet of the Redeemer**
+    - The leader of the Church of the Redeemer, and therefor the Ecclesia as a whole
+    - The first person known to have drawn power from the Redeemer. A god who 
 
 - Magistrate **Barretta Blackstone**
     - {% include hoverImage.html text="Image" image="characterImages/baretta.jpg" %}
