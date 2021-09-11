@@ -1,3 +1,26 @@
+
+## Notes from Celeste in Sixth Spire Books
+
+*These notes were found scrawled in the margins of various books in the Sixth Spire library by the Prophet of the Redeemer*
+
+- In *A Pamphlety on the Heretics Quandry*: _On a tear stained page_ "He didnt even ask if I wanted to know. Why must he be like this? I have to ask hert about it...I cant let his sacrafice go in vain. I will use this knowledge to set the world right"
+
+- In *Crating the Celestial Bridge; a research paper on the creation and working of the celestial bridge*: "They deny me at every turn...too petty and narcissistic to see the hurt in the world they could be easing. Too prideful to work with Five Spire. But this could work...this could give us access"
+
+- In *Stories of Radiance: Tales of the Radiant Ones*: "Mathas, you fool. They are all fools. Just as guilty as the Council, feigning at righteousness. They are just as bad as we are. Just as wretched. No one should have this cursed power. No one."
+
+- In *Draconic Dealings; by Artur Crombsby*: "I cannot stand the hate in Crowley's eyes. I can end it all soon. We world will be free. I will be free, and I will get what I deserve"
+
+- In *An Introduction to Group Ritual IV; Second Edition*: "How can I get the others on board? We have to do something, this war is.... working together is our only chance. If they cant see that... How can I make them see?"
+
+- In *Banishment and Containment: A Spiritual Exterminator's Guide*: "Am I a fool to think I could succeed where they failed? I have to try... I can't hold back, their folly was thinking they could contain her. I wont make that mistake"
+
+- In *Summoning: A Study of Induced Interplanar Travel*: "Can this really be it? All that...chaos, out of something so mundane? The Council of Five are fools.._were_ fools. I can't let this stand. They thirst for power, and when it slips though their grasping hands they watch the world burn and shrug their shoulders. Ready to try again. All they deserve is a slow and painful end"
+
+- In *Mixing Radiance; A treatise on the applications and effects of combining magics of different sources*: "By the Radiant Ones. Maybe there is hope. Peace. I will take the offer. I can do this"
+
+- In *Demonic Dealings; By Artur Crombsby Jr.* :  "The arrogant fools will pay for their deciet. They'll pay for what they turned me into. What they've turned the world into. What choice do I have? Mathas must have wanted this. It is too late. I will heal the wounds Ive caused."
+
 ## Letter to Brood from Five Spire
 
 *Attached to this letter is a large book titled **The Myths and Cultures of the Peoples of the Sylvithryn Wood** by an unknown author*
