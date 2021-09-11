@@ -1,4 +1,6 @@
 
+# Documents
+
 ## Notes from Celeste in Sixth Spire Books
 
 *These notes were found scrawled in the margins of various books in the Sixth Spire library by the Prophet of the Redeemer*
