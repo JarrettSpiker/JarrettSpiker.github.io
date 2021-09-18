@@ -5,7 +5,7 @@
 
 *These notes were found scrawled in the margins of various books in the Sixth Spire library by the Prophet of the Redeemer*
 
-- In *A Pamphlety on the Heretics Quandry*: _On a tear stained page_ "He didnt even ask if I wanted to know. Why must he be like this? I have to ask hert about it...I cant let his sacrafice go in vain. I will use this knowledge to set the world right"
+- In *A Pamphlet on the Heretics Quandary*: _On a tear stained page_ "He didn't even ask if I wanted to know. Why must he be like this? I have to ask her about it...I cant let his sacrifice go in vain. I will use this knowledge to set the world right"
 
 - In *Crating the Celestial Bridge; a research paper on the creation and working of the celestial bridge*: "They deny me at every turn...too petty and narcissistic to see the hurt in the world they could be easing. Too prideful to work with Five Spire. But this could work...this could give us access"
 
@@ -21,7 +21,7 @@
 
 - In *Mixing Radiance; A treatise on the applications and effects of combining magics of different sources*: "By the Radiant Ones. Maybe there is hope. Peace. I will take the offer. I can do this"
 
-- In *Demonic Dealings; By Artur Crombsby Jr.* :  "The arrogant fools will pay for their deciet. They'll pay for what they turned me into. What they've turned the world into. What choice do I have? Mathas must have wanted this. It is too late. I will heal the wounds Ive caused."
+- In *Demonic Dealings; By Artur Crombsby Jr.* :  "The arrogant fools will pay for their deceit. They'll pay for what they turned me into. What they've turned the world into. What choice do I have? Mathas must have wanted this. It is too late. I will heal the wounds Ive caused."
 
 ## Letter to Brood from Five Spire
 
