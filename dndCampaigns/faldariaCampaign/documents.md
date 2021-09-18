@@ -11,7 +11,7 @@
 
 - In *Stories of Radiance: Tales of the Radiant Ones*: "Mathas, you fool. They are all fools. Just as guilty as the Council, feigning at righteousness. They are just as bad as we are. Just as wretched. No one should have this cursed power. No one."
 
-- In *Draconic Dealings; by Artur Crombsby*: "I cannot stand the hate in Crowley's eyes. I can end it all soon. We world will be free. I will be free, and I will get what I deserve"
+- In *Draconic Dealings; by Artur Crombsby*: "I cannot stand the hate in Crowley's eyes. I can end it all soon. The world will be free. I will be free, and I will get what I deserve"
 
 - In *An Introduction to Group Ritual IV; Second Edition*: "How can I get the others on board? We have to do something, this war is.... working together is our only chance. If they cant see that... How can I make them see?"
 
