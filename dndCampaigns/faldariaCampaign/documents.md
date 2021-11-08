@@ -55,4 +55,15 @@ I've been working on something since our last little bit of fun together, and wh
 Ta-ta! XOXO
 C
 
+## Letter to Wilace from Bilry
+
+Talonstone has become too hard of a place to do business. One of my most prized birds was poached by a competitor, and the whole line has been soured.
+
+Im moving show, exploring new opportunities, and I think the best place to do it is right under our competitor's nose. Im getting old, and if I cant take risks now, then never, eh? Plus the sea air will do me good.
+
+Reach me care of our old associate there, where the morning's beauty falls.
+
+Be safe old friend.
+
+- The Captain
 
