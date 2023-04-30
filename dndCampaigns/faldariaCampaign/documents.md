@@ -1,6 +1,27 @@
 
 # Documents
 
+## Notes from Celeste in the old library of Five Spire
+
+ - In *Antimagic Materials and Properties*: A Dimeritium blade to pierce shields and shatter the mask. A dragon slayer scimitar. A blight of rust. Flames stoked by the oil of a greater smoldering walrus, hot enough to crack even the greenest woods.
+
+ - In *Devilish Dealings; Dos, Donts, and general guidance to avoid selling your soul*: Knowledge, in exchange for power in kind. How fitting. But why would she want to know… It does not matter, I will wipe her from this world before she ever gets a chance to use it. I just pray that Mathas can help me find the answers…
+
+ - In *Devilish Dealings; Dos, Donts, and general guidance to avoid selling your soul*: I see now, how she means to trick me. It is horrible in its elegance. I see her plot, as surely as she must see mine. But she underestimates me, and she underestimates Mathas. The seeker of all knowledge ~~has~~ had more cunning than this foul creature, he would not have given me the price if he did not think it should be paid. I will not forsake his memory.
+
+  - In *Devilish Dealings; Dos, Donts, and general guidance to avoid selling your soul*: Three deals, and we are done. Well and truly done. There is no way for her to worm out, surely?  The World Scar, healed. The walls of Five Spire town down, as they deserve. The dealmaker gets what they deserve. The Council gets what they deserve. I finally get what I deserve.
+
+ - In a folio labelled "Hunters", containing  different demon hunters of Junisia, past and present: Need an expert, the best. She will never go along, too short sighted….Nefros Dustfall has never been able to turn down a challenge. If lucky, he may be able to convince his sister as well.
+
+- In *Banishment: Send them back where they belong!*: The name. The ritual. The more power the better. The safer option, would not need to break the prison. But no, we are committed. No half measures.
+True name? The binders would have to know, and surely one of them would cave under properly applied pressure. Or if worst comes to worst the distasteful trick with the virgins would also work. 
+
+- In *Slaying the Primordial*: The prison protects her. Once we crack it open, the Redeemer will keep her from escaping…force her to manifest. And while manifest, Kelian and I may strike her down. Forever. *Attached to this is a crude sketch of Kelian's power store in Briggs Harbour, and note saying "Can use all the power we can get"*
+
+- An underlined section of *Primordials and How they Manifest*:  A primordial entity cannot manifest on the material plane for more than a fraction of a minute before they dissipate. As we typically see in elemental beings, such as the leviathans, they must construct an avatar from materials native to the plane, suitable to their own essence.
+*This is followed by a note* Dealmaker must have an  avatar prepared to inhabit once her prison is cracked. But made from what? Cannot touch material plane directly while imprisoned…
+
+
 ## Notes from Celeste in Sixth Spire Books
 
 *These notes were found scrawled in the margins of various books in the Sixth Spire library by the Prophet of the Redeemer*
